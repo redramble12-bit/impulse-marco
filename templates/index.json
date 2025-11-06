@@ -15,11 +15,11 @@
         "image_DG7hdH": {
           "type": "image",
           "settings": {
-            "top_subheading": "UP TO 80% OFF",
-            "title": "CLEARANCE SALE",
+            "top_subheading": "Sale ends today",
+            "title": "Shop anniversary sale",
             "title_size": 62,
-            "subheading": "",
-            "link": "shopify://collections/dresses-bestsellers",
+            "subheading": "WHILE IT LASTS",
+            "link": "",
             "link_text": "Shop Now",
             "link_2": "shopify://collections/frontpage",
             "link_text_2": "",
@@ -36,7 +36,7 @@
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "section_height": "650px",
+        "section_height": "750px",
         "mobile_height": "400px",
         "parallax": false,
         "style": "bars",
