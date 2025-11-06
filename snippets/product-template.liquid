@@ -216,7 +216,7 @@
   </span>
 {%- endif -%}
 
-                      <span {% unless current_variant.compare_at_price  %}style="color: #D1A972; font-weight: 700; font-size: 27px!important;"{% endunless %} data-product-price
+                      <span {% unless current_variant.compare_at_price  %}style="color: #f9e4e4; font-weight: 700; font-size: 27px!important;"{% endunless %} data-product-price
                         class="product__price{% if current_variant.compare_at_price > current_variant.price %} on-sale{% endif %}">
                         {%- unless product.empty? -%}
                           {{ current_variant.price | money_with_currency }}
