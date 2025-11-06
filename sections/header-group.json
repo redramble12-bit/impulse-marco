@@ -114,19 +114,19 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_xaGkmn": {
+          "type": "announcement",
+          "settings": {
+            "text": "",
+            "link_text": "BUY 2, GET AN EXTRA 10% OFF",
+            "link": ""
+          }
+        },
         "announcement_aFBJ9a": {
           "type": "announcement",
           "settings": {
             "text": "",
             "link_text": "BUY 3, GET AN EXTRA 15% OFF",
-            "link": ""
-          }
-        },
-        "announcement_xaGkmn": {
-          "type": "announcement",
-          "settings": {
-            "text": "CLEARANCE SALE ENDS TODAY",
-            "link_text": "BUY 2, EXTRA 10% OFF | BUY 3, EXTRA 15% OFF",
             "link": ""
           }
         },
@@ -140,8 +140,8 @@
         }
       },
       "block_order": [
-        "announcement_aFBJ9a",
         "announcement_xaGkmn",
+        "announcement_aFBJ9a",
         "announcement_VzRJtC"
       ],
       "custom_css": [],
