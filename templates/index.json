@@ -108,6 +108,56 @@
         "show_view_all": true
       }
     },
+    "featured_collections_TGfnVJ": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_3NAmhz": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "BLOUSES",
+            "focal_point": "center center"
+          }
+        },
+        "collection_6LwpdW": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "DRESSES",
+            "focal_point": "center center"
+          }
+        },
+        "collection_TkcVQN": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "BOOTS",
+            "focal_point": "center center"
+          }
+        },
+        "collection_akTyP4": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses-bestsellers",
+            "title": "PANTS",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_3NAmhz",
+        "collection_6LwpdW",
+        "collection_TkcVQN",
+        "collection_akTyP4"
+      ],
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "",
+        "divider": true,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
     "hero_video_nPwCgD": {
       "type": "hero-video",
       "disabled": true,
@@ -125,35 +175,6 @@
         "mobile_height": "auto"
       }
     },
-    "rich_text_nDiC7f": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_UDGADC": {
-          "type": "heading",
-          "settings": {
-            "title": "NOUS FERMONS NOS PORTES…"
-          }
-        },
-        "text_XCy9BP": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Après une période difficile, nous avons le cœur brisé en annonçant que nous devons fermer nos portes.<br/>Malgré les obstacles, nous sommes reconnaissants de l'incroyable soutien que vous nous avez apporté tout au long de notre parcours. Alors que ce chapitre touche à sa fin, nous tenons à vous exprimer nos remerciements les plus sincères pour avoir fait partie de notre aventure. En guise de remerciement, nous vous offrons des remises spéciales.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_UDGADC",
-        "text_XCy9BP"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "sp_custom_html_8J4AMK": {
       "type": "sp-custom-html",
       "disabled": true,
@@ -163,28 +184,6 @@
         "custom_html": "<div id=\"shopify-section-template--25090185527634__banner-prices\" class=\"shopify-section\">\n  <div class=\"banner-prices\" style=\"background-color: #121212; padding: 7px 11px;\">\n    <div class=\"banner-content\">\n      <p class=\"banner-text\" style=\"color: #ffffff; font-size: 16px;\">\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-15%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">2</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-20%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">3</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-25%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">4</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-35%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">5</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-45%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">10+</span>\n          articles\n        </span>\n      </p>\n      <p class=\"automatic-text\" style=\"color: #ffffff;\">\n        La réduction est appliquée automatiquement dans votre panier!\n      </p>\n    </div>\n  </div>\n\n  <style>\n    .banner-prices {\n      text-align: center;\n      width: 100%;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n    }\n    \n    .banner-text {\n      margin: 0;\n      line-height: 1.5;\n    }\n    \n    .banner-segment {\n      display: inline-block;\n      padding: 4px 0;\n    }\n    \n    .separator {\n      margin: 0 15px;\n      color: rgba(0, 0, 0, 0.3);\n    }\n\n    @media screen and (max-width: 749px) {\n      .banner-text {\n        display: flex;\n        flex-direction: column;\n        gap: 8px;\n      }\n      \n      .banner-segment {\n        display: block;\n      }\n      \n      .separator {\n        display: none;\n      }\n    }\n\n    .banner-content {\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n      gap: 4px;\n    }\n\n    .automatic-text {\n      margin: 0;\n      font-size: 12px;\n      opacity: 0.8;\n    }\n  </style>\n</div>"
       }
     },
-    "rich_text_GRnprD": {
-      "type": "rich-text",
-      "blocks": {
-        "text_93YBat": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Les remises s'appliquent automatiquement et peuvent être combinées à des articles d'autres collections lors de notre vente de clôture.<em><br/><br/></em>Ne vous inquiétez pas, vous pouvez toujours retourner les articles après <strong>30 jours </strong>s'il y a un problème ! Nous fermons jusqu'à ce que nous ayons vendu nos articles dans notre magasin.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_93YBat"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.rich_text.name",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "sp_custom_html_GBijcz": {
       "type": "sp-custom-html",
       "disabled": true,
@@ -192,37 +191,6 @@
       "settings": {
         "title": "",
         "custom_html": "<div id=\"shopify-section-template--23559008223560__u_collection_promo_nXXei9\" class=\"shopify-section\">\n  <style>\n    /* Outer section with grey background */\n    .ucollection-promo {\n      background: #f9f9f9;\n      padding: 30px 0;\n    }\n\n    /* Inner container for the promo content with white background */\n    .uc-promo-wrapper {\n      background: #ffffff;\n      color: #1c1d1d;\n      padding: 30px 20px;\n      text-align: center;\n      max-width: 1000px;\n      margin: 0 auto;\n      border-radius: 8px; /* Optional: adds rounded corners */\n    }\n\n    /* Main title styling */\n    .mainuc-promo-wrapper-middle {\n      font-size: 18px;\n      font-weight: bold;\n    }\n\n    /* Promo text styling */\n    .uc-promo-wrapper-middle {\n      display: flex;\n      flex-direction: column;\n      gap: 10px;\n      font-size: 16px;\n      line-height: 1.6;\n    }\n\n    .uc-promo-wrapper-middle span {\n      display: block;\n    }\n\n    /* Footer text styling */\n    .upromo-footer {\n      font-size: 14px;\n      font-style: italic;\n      color: #444;\n    }\n\n    /* Responsive behavior for larger screens */\n    @media screen and (min-width: 768px) {\n      .uc-promo-wrapper-middle {\n        flex-direction: row;\n        flex-wrap: wrap;\n        justify-content: center;\n        gap: 12px 20px;\n      }\n\n      .uc-promo-wrapper-middle span {\n        display: inline-block;\n      }\n    }\n  </style>\n\n  <section class=\"ucollection-promo\">\n    <div class=\"uc-promo-wrapper\">\n      <span class=\"mainuc-promo-wrapper-middle\">Achetez plus = Payez moins</span>\n\n      <div class=\"uc-promo-wrapper-middle\">\n        <span><strong>Après des années de travail acharné, nous n’avons plus le choix.</strong> Les factures ont gagné, et nous sommes contraints de tout vendre à des prix sacrifiés. En ce moment, tout notre stock est en <strong>liquidation finale</strong> avec des <strong>remises exceptionnelles allant jusqu’à 80 %.</strong></span>\n        <span><strong>-15 % de réduction</strong> dès 2 articles achetés</span>\n        <span><strong>-20 % de réduction</strong> dès 3 articles achetés</span>\n        <span><strong>-25 % de réduction</strong> dès 4 articles achetés</span>\n        <span><strong>-35 % de réduction</strong> dès 5 articles achetés</span>\n      </div>\n\n      <span class=\"upromo-footer\"><strong>Les remises sont appliquées automatiquement lors du passage en caisse.</strong></span>\n    </div>\n  </section>\n</div>"
-      }
-    },
-    "rich-text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "VENTE DE LIQUIDATION NOTRE BOUTIQUE À PARIS FERME"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>C’est le cœur lourd que nous devons dire au revoir à notre stock actuel. Nous tenons à remercier toutes celles et ceux qui ont fait partie de notre aventure à Paris. Nous apprécions sincèrement votre amour et votre soutien.<br/><br/>Tous les produits qui ne sont plus disponibles seront retirés du site – les produits ci-dessous sont les derniers en stock.<br/><br/><strong>Réductions automatiques :<br/></strong><br/>Achetez 2 articles → <strong>15 % de réduction</strong><br/><br/>Achetez 3 articles → <strong>20 % de réduction</strong><br/><br/>Achetez 4 articles → <strong>25 % de réduction</strong><br/><br/>Achetez 10 articles → <strong>30 % de réduction</strong><br/><br/><br/>Merci pour votre soutien au fil des années !</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {font-size: 32px;}"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
       }
     },
     "sp_custom_html_MPPD79": {
@@ -241,17 +209,10 @@
           "settings": {
             "collection": "sweaters-hoodies"
           }
-        },
-        "collection_tab_exEEBW": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "long-sleeve-tops"
-          }
         }
       },
       "block_order": [
-        "collection_tab_kFc4M6",
-        "collection_tab_exEEBW"
+        "collection_tab_kFc4M6"
       ],
       "name": "Tabs Slider",
       "settings": {
@@ -260,93 +221,24 @@
         "show_view_all": true
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "SANDALS",
-        "home_featured_products": "sandals-1",
-        "per_row": 4,
-        "rows": 2,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "rich_text_kV8EPH": {
-      "type": "rich-text",
+    "tab_slider_Yjc84W": {
+      "type": "tab-slider",
       "blocks": {
-        "heading_4iANRY": {
-          "type": "heading",
+        "collection_tab_FVpRpN": {
+          "type": "collection_tab",
           "settings": {
-            "title": "NOUS CONTACTER"
-          }
-        },
-        "text_dz7J7r": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Nous répondons à tous les courriels dans les 24 heures en semaine et le week-end et sommes disponibles par courriel en semaine et le week-end entre 9 heures et 18 heures : <a href=\"/pages/contact\" title=\"Contactez-nous\">info@duboisatelier.fr</a></p>"
+            "collection": "sweaters-hoodies"
           }
         }
       },
       "block_order": [
-        "heading_4iANRY",
-        "text_dz7J7r"
+        "collection_tab_FVpRpN"
       ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.rich_text.name",
+      "name": "Tabs Slider",
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
-    "featured_collections_TGfnVJ": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_3NAmhz": {
-          "type": "collection",
-          "settings": {
-            "collection": "sandals-1",
-            "title": "Sandals",
-            "focal_point": "center center"
-          }
-        },
-        "collection_6LwpdW": {
-          "type": "collection",
-          "settings": {
-            "collection": "dresses-bestsellers",
-            "title": "Dresses",
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "collection_3NAmhz",
-        "collection_6LwpdW"
-      ],
-      "disabled": true,
-      "name": "t:sections.featured-collections.presets.collection_list.name",
-      "settings": {
-        "title": "",
-        "divider": false,
-        "per_row": 4,
-        "enable_gutter": true
-      }
-    },
-    "featured_collection_dwGWft": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "t:sections.featured-collection.presets.featured_collection.name",
-      "settings": {
-        "title": "Dresses",
-        "home_featured_products": "dresses-collection",
-        "per_row": 2,
-        "rows": 4,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_view_all": true
       }
     },
     "featured_collections_7q6hNt": {
@@ -367,35 +259,17 @@
             "title": "",
             "focal_point": "center center"
           }
-        },
-        "collection_K8icDQ": {
-          "type": "collection",
-          "settings": {
-            "collection": "pants",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "collection_YjncxW": {
-          "type": "collection",
-          "settings": {
-            "collection": "bags-1",
-            "title": "",
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
         "collection_7FQFcH",
-        "collection_Az7pnY",
-        "collection_K8icDQ",
-        "collection_YjncxW"
+        "collection_Az7pnY"
       ],
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
-        "title": "End of Summer",
+        "title": "",
         "divider": false,
-        "per_row": 4,
+        "per_row": 2,
         "enable_gutter": true
       }
     },
@@ -614,18 +488,13 @@
     "sp_custom_html_gGDMPt",
     "tab_slider_riLH3x",
     "tab_slider_jqgE7C",
+    "featured_collections_TGfnVJ",
     "hero_video_nPwCgD",
-    "rich_text_nDiC7f",
     "sp_custom_html_8J4AMK",
-    "rich_text_GRnprD",
     "sp_custom_html_GBijcz",
-    "rich-text",
     "sp_custom_html_MPPD79",
     "tab_slider_g6Cb8A",
-    "featured-collection",
-    "rich_text_kV8EPH",
-    "featured_collections_TGfnVJ",
-    "featured_collection_dwGWft",
+    "tab_slider_Yjc84W",
     "featured_collections_7q6hNt",
     "tab_slider_W3KErn",
     "tab_slider_WMqQKa",
