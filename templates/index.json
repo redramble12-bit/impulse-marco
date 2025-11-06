@@ -358,66 +358,44 @@
         "lazyload_images": true
       }
     },
-    "sp_image_riley_rPgYUa": {
-      "type": "sp-image-riley",
+    "tab_slider_XqzGNa": {
+      "type": "tab-slider",
       "blocks": {
-        "heading_PG7TLE": {
-          "type": "heading",
+        "collection_tab_gaAhay": {
+          "type": "collection_tab",
           "settings": {
-            "heading_text": "POURQUOI LES CLIENTES NOUS FONT-ILS CONFIANCE ?",
-            "heading_tag": "h3"
-          }
-        },
-        "divider_tBjQ6n": {
-          "type": "divider",
-          "settings": {
-            "divider_color": "#000000"
-          }
-        },
-        "text_q7BQKb": {
-          "type": "text",
-          "settings": {
-            "section_text": "<p>✓ SERVICE CLIENTÈLE RÉACTIF<br/><br/>✓ GARANTIE DE REMBOURSEMENT<br/><br/>✓ LIVRAISON GRATUITE ET EXPRESS</p>"
+            "collection": "heels"
           }
         }
       },
       "block_order": [
-        "heading_PG7TLE",
-        "divider_tBjQ6n",
-        "text_q7BQKb"
+        "collection_tab_gaAhay"
       ],
-      "disabled": true,
-      "name": "🚀SP - Image Riley",
+      "name": "Tabs Slider",
       "settings": {
-        "is_fullwidth": false,
-        "img_position": "left",
-        "text_align": "left",
-        "inherit_fonts": true,
-        "text_color": "#000000",
-        "text_bg_color": "#ffffff",
-        "section_padding_top": 80,
-        "section_padding_bottom": 80,
-        "text_padding_top": 120,
-        "text_padding_bottom": 120,
-        "custom_css": ""
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_view_all": true
       }
     },
-    "background_image_text_Jxm89g": {
-      "type": "background-image-text",
-      "disabled": true,
-      "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
+    "tab_slider_nBt63Q": {
+      "type": "tab-slider",
+      "blocks": {
+        "collection_tab_hh8BqN": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "heels"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tab_hh8BqN"
+      ],
+      "name": "Tabs Slider",
       "settings": {
-        "subtitle": "Dubois atelier",
-        "title": "30 JOURS – J'AIME OU JE SUIS REMBOURSÉ",
-        "text": "<p>Nous savons que vous tomberez amoureuse de nos modèles, mais si le vêtement ne vous convient pas parfaitement, vous disposez de 30 jours pour le retourner sans problème. Profitez d'un shopping sans risque et trouvez votre nouveau look préféré dès aujourd'hui !</p>",
-        "button_label": "",
-        "button_link": "",
-        "layout": "left",
-        "height": 550,
-        "framed": false,
-        "parallax": true,
-        "parallax_direction": "top",
-        "lazyload_images": true
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_view_all": true
       }
     },
     "faq_Vx4YPp": {
@@ -426,36 +404,36 @@
         "question_EEf7NY": {
           "type": "question",
           "settings": {
-            "title": "Combien de temps prend la livraison ?",
-            "text": "<p>Le traitement de la commande prend environ 1 à 3 jours, nous veillons à ce que votre colis soit parfaitement traité. La livraison prend entre 4 et 7 jours ouvrables. Dès que votre commande est expédiée, vous recevez un e-mail de confirmation avec un numéro de suivi qui vous permet de suivre votre colis en temps réel. Le délai total est donc d'environ 10 jours ouvrables.</p>"
+            "title": "Do you offer free shipping?",
+            "text": "<p>Yes, we offer Free Premium Shipping + Track & Trace, because we value you as a customer and want to provide you with the best service.</p>"
           }
         },
         "question_AR9VBG": {
           "type": "question",
           "settings": {
-            "title": "Puis-je retourner un article ?",
-            "text": "<p>Oui, vous disposez de 30 jours à compter de la réception de votre commande pour effectuer un retour. Les articles doivent être non portés, non lavés, et dans leur emballage d'origine. Pour initier un retour, veuillez consulter notre page dédiée aux retours.</p>"
+            "title": "Can I return the item(s) if I don’t like them?",
+            "text": "<p>Yes, you can return your order within 30 days of receiving it.</p>"
           }
         },
         "question_QKB6Wm": {
           "type": "question",
           "settings": {
-            "title": "Que faire si ma commande est incomplète ou endommagée ?",
-            "text": "<p>Si vous recevez un article endommagé ou si un produit manque, contactez notre service client dans les 48 heures suivant la réception. Nous nous chargerons de résoudre le problème le plus rapidement possible.</p>"
+            "title": "How can I track my order?",
+            "text": "<p>You can track your order by entering your Order Number or Email/Phone Number on the \"Track Your Order\" page. Once you’ve entered your information and clicked \"Track,\" you will be able to see the status of your order.</p>"
           }
         },
         "question_KUz4ya": {
           "type": "question",
           "settings": {
-            "title": "Comment puis-je suivre ma commande ?",
-            "text": "<p>Une fois votre commande expédiée, vous recevrez un e-mail avec un lien de suivi. Vous pouvez également suivre votre commande directement depuis votre compte client, dans la rubrique \"Mes commandes\".</p>"
+            "title": "What payment methods do you accept?",
+            "text": "<p>You can pay safely and securely with the following payment methods: PayPal, Credit Card, Visa, Mastercard, American Express, Apple Pay, Google Pay, Maestro, and Shop Pay.</p>"
           }
         },
         "question_mneyAV": {
           "type": "question",
           "settings": {
-            "title": "Comment entretenir mes vêtements Toreia ?",
-            "text": "<p>Pour préserver la qualité et la durabilité de vos pièces Toreia, nous vous recommandons de les laver à la main à l’eau froide ou d’utiliser un cycle délicat en machine avec un filet de lavage. Évitez le sèche-linge et le repassage à haute température. Chaque article est accompagné d’une étiquette d’entretien : merci de bien la suivre pour garantir la longévité de vos vêtements.</p>"
+            "title": "Will I receive a confirmation email after placing an order?",
+            "text": "<p>Yes, once you've placed your order, a confirmation will be sent to your email inbox. If you don’t see it, feel free to reach out to our customer service team, we’re happy to help you right away.<br/><br/>Email:<a>Info@avery-rosewood.com</a></p>"
           }
         }
       },
@@ -466,9 +444,8 @@
         "question_KUz4ya",
         "question_mneyAV"
       ],
-      "disabled": true,
       "settings": {
-        "title": "QUESTIONS FRÉQUENTES"
+        "title": "Frequently Asked Questions"
       }
     },
     "map_fW7nh9": {
@@ -501,8 +478,8 @@
     "tab_slider_WMqQKa",
     "sp_custom_html_AenHfE",
     "text_and_image_Ekmc4n",
-    "sp_image_riley_rPgYUa",
-    "background_image_text_Jxm89g",
+    "tab_slider_XqzGNa",
+    "tab_slider_nBt63Q",
     "faq_Vx4YPp",
     "map_fW7nh9"
   ]
