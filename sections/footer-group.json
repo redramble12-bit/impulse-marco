@@ -79,13 +79,22 @@
             "container_width": 95
           }
         },
+        "newsletter_VhgAaG": {
+          "type": "newsletter",
+          "settings": {
+            "show_footer_title": true,
+            "title": "JOIN THE CLUB",
+            "text": "<p>Sign up and find out right away if you've won $100 in shopping credit!</p>",
+            "container_width": 34
+          }
+        },
         "custom_nTG8dx": {
           "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "SUPPORT",
-            "text": "<p><strong>Need help?</strong> Get in touch with our customer service.<br/><br/>✉️ <strong>info@sofia-boutique-california.com</strong><br/>📍 Los Angelos, California</p><p>Our team is available<strong> 6 days </strong>a <strong>week</strong>, don't hesitate to contact us!<br/><br/><strong>Monday to Friday: </strong>9:00 AM - 8:00 PM<br/><strong>Saturday: </strong>9:00 AM - 6:00 PM<br/><strong>Sunday: </strong>Closed</p>",
-            "container_width": 25
+            "title": "Business hours",
+            "text": "<p>Mon-Fri: 9:00 AM - 6:00 PM</p><p>Sat-Sun: 12:00 PM - 5:00 PM</p><p><strong>📩info@avery-rosewood.com</strong></p>",
+            "container_width": 30
           }
         },
         "menu_APzbxd": {
@@ -95,22 +104,13 @@
             "menu": "footer",
             "container_width": 24
           }
-        },
-        "newsletter_VhgAaG": {
-          "type": "newsletter",
-          "settings": {
-            "show_footer_title": true,
-            "title": "JOIN THE FAMILY",
-            "text": "<p>Receive exclusive access to the latest product launches, special offers, and restocks. Join the Sofia Boutique community and become part of our family!</p>",
-            "container_width": 24
-          }
         }
       },
       "block_order": [
         "footer-0",
+        "newsletter_VhgAaG",
         "custom_nTG8dx",
-        "menu_APzbxd",
-        "newsletter_VhgAaG"
+        "menu_APzbxd"
       ],
       "settings": {
         "show_locale_selector": true,
