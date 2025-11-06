@@ -126,11 +126,9 @@
       "block_order": [
         "announcement_aFBJ9a"
       ],
-      "custom_css": [
-        ".announcement-bar {color: #000000 !important; /* zwart */}"
-      ],
+      "custom_css": [],
       "settings": {
-        "announcement_compact": false
+        "announcement_compact": true
       }
     },
     "selluxe_collection_list_nY3YaA": {
