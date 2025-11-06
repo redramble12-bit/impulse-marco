@@ -1,1 +1,639 @@
-{"sections":{"slideshow_K7BMe3":{"type":"slideshow","blocks":{"image_DG7hdH":{"type":"image","settings":{"top_subheading":"UP TO 80% OFF","title":"CLEARANCE SALE","title_size":62,"subheading":"","link":"shopify:\/\/collections\/dresses-bestsellers","link_text":"Shop Now","link_2":"shopify:\/\/collections\/frontpage","link_text_2":"","color_accent":"#ffffff","text_align":"vertical-bottom horizontal-left","image":"shopify:\/\/shop_images\/ChatGPT_Image_Oct_6_2025_01_02_27_AM.png","image_mobile":"shopify:\/\/shop_images\/ChatGPT_Image_Oct_6_2025_01_02_27_AM.png","parallax_direction":"left","overlay_opacity":40}}},"block_order":["image_DG7hdH"],"name":"t:sections.slideshow.presets.hero_optional_slideshow.name","settings":{"section_height":"650px","mobile_height":"400px","parallax":false,"style":"bars","autoplay":true,"autoplay_speed":5,"lazyload_images":true}},"sp_custom_html_gGDMPt":{"type":"sp-custom-html","disabled":true,"name":"🚀SP - Custom HTML","settings":{"title":"","custom_html":"<div id=\"shopify-section-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\" class=\"shopify-section\">\n<style>\n  @font-face {\n  font-family: Montserrat;\n  font-weight: 400;\n  font-style: normal;\n  font-display: swap;\n  src: url(\"\/\/lena-boutique.de\/cdn\/fonts\/montserrat\/montserrat_n4.81949fa0ac9fd2021e16436151e8eaa539321637.woff2?h1=bWNrZ3kwLXBkLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bGVuYS1ib3V0aXF1ZS5kZQ&hmac=a93ce1f6aa9e325012f241ea1904c398db80db64901f19c7616d5703435d74b0\") format(\"woff2\"),\n       url(\"\/\/lena-boutique.de\/cdn\/fonts\/montserrat\/montserrat_n4.a6c632ca7b62da89c3594789ba828388aac693fe.woff?h1=bWNrZ3kwLXBkLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bGVuYS1ib3V0aXF1ZS5kZQ&hmac=013171f44078aaa4308b9e99a4ffab262d5591ae262b833aec70ca5a2babec70\") format(\"woff\");\n}\n\n\n  .ss-announcement-bar,\n  .ss-announcement-bar__message {\n    overflow: hidden;\n  }\n  .ss-announcement-bar:hover {\n    opacity:0.90;\n  }\n  .announcement-bar__link {\n    display: block;\n    width: 100%;\n    padding: 1.5rem 2rem;\n    text-decoration: none;\n    color: var(--text-color);\n    line-height:0;\n  }\n  .announcement-bar__link:hover {\n    color: var(--text-color);\n  }\n  #marq {\n    width: 100%;\n    border: inset;\n    overflow: hidden;\n    white-space: nowrap;\n    box-shadow: unset;\n    border: 0;\n    box-shadow: unset;\n    border-color: currentcolor;\n    vertical-align: middle;\n  }\n  \n  @keyframes marquesina-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG {\n    from {\n      transform: translateX(-50%);\n    }\n    to {\n      transform: translateX(0%);\n    }\n  }\n  @keyframes marquesina-reverse-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG {\n    from {\n      transform: translateX(0%);\n    }\n    to {\n      transform: translateX(50%);\n    }\n  }\n  \n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig {\n    display: inline-block;\n    overflow: hidden;\n    transform: translate(0);\n  }\n\n  .ss-announcement-bar__message {\n    text-align: center;\n    padding: 0;\n    margin: 0;\n    line-height: 1;\n    font-size: 12px;\n    font-family: Montserrat;\n    font-weight: 400;\n  }\n  #orig.reverse .announcement-bar__message {\n    display: flex;\n    flex-direction: row-reverse;\n  }\n  .ss-announcement-bar__message li {\n\n    line-height: 1;\n    font-size: 12px;\n    font-family: Montserrat;\n    font-weight: 400;\n    display: inline-block;\n    padding-right: 114px;\n    position: relative;\n\n  }\n  .ss-announcement-bar__message li::after {\n    content: '';\n    width: 3.5px;\n    height: 3.5px;\n    background-color: var(--text-color);\n    background-image: none;\n    opacity: 0.3;\n    border-radius: 50%;\n    position: absolute;\n    top: 40%;\n    right: 50px;\n  }\n  @media (max-width: 480px) {\n    #marq {\n      max-height: 39px;\n    }\n    .ss-announcement-bar__message li {\n      padding-right: 55px;\n    }\n    .ss-announcement-bar__message li::after {\n      right: 25px;\n    }\n  }\n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig {\n    animation: marquesina-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG var(--animation-duration, 45s) infinite normal linear 1s;\n  }\n\n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig.reverse {\n    animation: marquesina-reverse-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG var(--animation-duration, 45s) infinite normal linear 2s;\n  }\n<\/style>\n\n\n\n<template id=\"marquee-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\">\n  \n<\/template>\n\n<div class=\"ss-announcement-bar ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\" aria-label=\"Announcement\" style=\"background-color: #AC8469; --text-color: #000000; --animation-duration: 80s;\">\n    <div class=\"announcement-bar__link\">\n      <div class=\"\" id=\"marq\">\n        <span id=\"orig\">\n          <ul class=\"ss-announcement-bar__message\">\n            \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE\/li>\n                \n                  <\/li>\n<li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 % \/li>\n                \n              \n                \n                  <\/li>\n<li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 % <\/li>\n                \n              \n                \n                  \n<li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %<\/li>\n                \n              \n\n              \n                <!-- <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE<\/li> -->\n              \n            \n          <\/ul>\n        <\/span>\n      <\/div>\n    <\/div>\n  <\/div>\n<div id=\"marquee-local-target-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\"><\/div>\n\n<script>\n  window.addEventListener('DOMContentLoaded', (event) => {\n    let cssTarget = '';\n    let productForm = cssTarget\n      ? document.querySelector(cssTarget)\n      : document.querySelector('#marquee-local-target-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG');\n\n    if (!productForm) return;\n\n    const templateContent = document.querySelector(\n      '#marquee-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG'\n    ).content;\n\n    productForm.insertAdjacentElement(\n      'beforebegin',\n      templateContent.firstElementChild\n    );\n\n    setTimeout(()=> {\n      var htmlElement = document.documentElement;\n\n      if (window.getComputedStyle(htmlElement).getPropertyValue('direction') === 'rtl') {\n          document.querySelector('#orig').classList.add('reverse');\n      }\n    }, 1000);\n  });\n<\/script>\n\n<\/div>"}},"tab_slider_riLH3x":{"type":"tab-slider","blocks":{"collection_tab_yL9kYX":{"type":"collection_tab","settings":{"collection":"loafers"}},"collection_tab_UXTFbt":{"type":"collection_tab","settings":{"collection":"heels"}}},"block_order":["collection_tab_yL9kYX","collection_tab_UXTFbt"],"name":"Tabs Slider","settings":{"padding_top":40,"padding_bottom":40,"show_view_all":true}},"tab_slider_jqgE7C":{"type":"tab-slider","blocks":{"collection_tab_aXGkYq":{"type":"collection_tab","settings":{"collection":"womens-jackets"}},"collection_tab_H37wbL":{"type":"collection_tab","settings":{"collection":"evening-breeze-jackets"}}},"block_order":["collection_tab_aXGkYq","collection_tab_H37wbL"],"name":"Tabs Slider","settings":{"padding_top":40,"padding_bottom":40,"show_view_all":true}},"hero_video_nPwCgD":{"type":"hero-video","disabled":true,"settings":{"title":"ON FERME\nTOUT À -70%","title_size":80,"subheading":"C’est votre dernière chance de shopper nos pièces préférées.","link_text":"Derniers articles – Achetez maintenant","link":"shopify:\/\/collections\/meilleures-ventes","color_accent":"#51b786","text_align":"vertical-center horizontal-center","video_url":"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cc589e2eb4a04429a90d4983a022efd1.mp4","overlay_opacity":0,"section_height":"650px","mobile_height":"auto"}},"rich_text_nDiC7f":{"type":"rich-text","blocks":{"heading_UDGADC":{"type":"heading","settings":{"title":"NOUS FERMONS NOS PORTES…"}},"text_XCy9BP":{"type":"text","settings":{"enlarge_text":true,"text":"<p>Après une période difficile, nous avons le cœur brisé en annonçant que nous devons fermer nos portes.<br\/>Malgré les obstacles, nous sommes reconnaissants de l'incroyable soutien que vous nous avez apporté tout au long de notre parcours. Alors que ce chapitre touche à sa fin, nous tenons à vous exprimer nos remerciements les plus sincères pour avoir fait partie de notre aventure. En guise de remerciement, nous vous offrons des remises spéciales.<\/p>"}}},"block_order":["heading_UDGADC","text_XCy9BP"],"disabled":true,"name":"t:sections.rich-text.presets.rich_text.name","settings":{"align_text":"center","narrow_column":true,"divider":false}},"sp_custom_html_8J4AMK":{"type":"sp-custom-html","disabled":true,"name":"🚀SP - Custom HTML","settings":{"title":"","custom_html":"<div id=\"shopify-section-template--25090185527634__banner-prices\" class=\"shopify-section\">\n  <div class=\"banner-prices\" style=\"background-color: #121212; padding: 7px 11px;\">\n    <div class=\"banner-content\">\n      <p class=\"banner-text\" style=\"color: #ffffff; font-size: 16px;\">\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-15%<\/span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">2<\/span>\n          articles\n        <\/span><span class=\"separator\">|<\/span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-20%<\/span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">3<\/span>\n          articles\n        <\/span><span class=\"separator\">|<\/span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-25%<\/span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">4<\/span>\n          articles\n        <\/span><span class=\"separator\">|<\/span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-35%<\/span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">5<\/span>\n          articles\n        <\/span><span class=\"separator\">|<\/span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-45%<\/span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">10+<\/span>\n          articles\n        <\/span>\n      <\/p>\n      <p class=\"automatic-text\" style=\"color: #ffffff;\">\n        La réduction est appliquée automatiquement dans votre panier!\n      <\/p>\n    <\/div>\n  <\/div>\n\n  <style>\n    .banner-prices {\n      text-align: center;\n      width: 100%;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n    }\n    \n    .banner-text {\n      margin: 0;\n      line-height: 1.5;\n    }\n    \n    .banner-segment {\n      display: inline-block;\n      padding: 4px 0;\n    }\n    \n    .separator {\n      margin: 0 15px;\n      color: rgba(0, 0, 0, 0.3);\n    }\n\n    @media screen and (max-width: 749px) {\n      .banner-text {\n        display: flex;\n        flex-direction: column;\n        gap: 8px;\n      }\n      \n      .banner-segment {\n        display: block;\n      }\n      \n      .separator {\n        display: none;\n      }\n    }\n\n    .banner-content {\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n      gap: 4px;\n    }\n\n    .automatic-text {\n      margin: 0;\n      font-size: 12px;\n      opacity: 0.8;\n    }\n  <\/style>\n<\/div>"}},"rich_text_GRnprD":{"type":"rich-text","blocks":{"text_93YBat":{"type":"text","settings":{"enlarge_text":false,"text":"<p>Les remises s'appliquent automatiquement et peuvent être combinées à des articles d'autres collections lors de notre vente de clôture.<em><br\/><br\/><\/em>Ne vous inquiétez pas, vous pouvez toujours retourner les articles après <strong>30 jours <\/strong>s'il y a un problème ! Nous fermons jusqu'à ce que nous ayons vendu nos articles dans notre magasin.<\/p>"}}},"block_order":["text_93YBat"],"disabled":true,"name":"t:sections.rich-text.presets.rich_text.name","settings":{"align_text":"center","narrow_column":true,"divider":false}},"sp_custom_html_GBijcz":{"type":"sp-custom-html","disabled":true,"name":"🚀SP - Custom HTML","settings":{"title":"","custom_html":"<div id=\"shopify-section-template--23559008223560__u_collection_promo_nXXei9\" class=\"shopify-section\">\n  <style>\n    \/* Outer section with grey background *\/\n    .ucollection-promo {\n      background: #f9f9f9;\n      padding: 30px 0;\n    }\n\n    \/* Inner container for the promo content with white background *\/\n    .uc-promo-wrapper {\n      background: #ffffff;\n      color: #1c1d1d;\n      padding: 30px 20px;\n      text-align: center;\n      max-width: 1000px;\n      margin: 0 auto;\n      border-radius: 8px; \/* Optional: adds rounded corners *\/\n    }\n\n    \/* Main title styling *\/\n    .mainuc-promo-wrapper-middle {\n      font-size: 18px;\n      font-weight: bold;\n    }\n\n    \/* Promo text styling *\/\n    .uc-promo-wrapper-middle {\n      display: flex;\n      flex-direction: column;\n      gap: 10px;\n      font-size: 16px;\n      line-height: 1.6;\n    }\n\n    .uc-promo-wrapper-middle span {\n      display: block;\n    }\n\n    \/* Footer text styling *\/\n    .upromo-footer {\n      font-size: 14px;\n      font-style: italic;\n      color: #444;\n    }\n\n    \/* Responsive behavior for larger screens *\/\n    @media screen and (min-width: 768px) {\n      .uc-promo-wrapper-middle {\n        flex-direction: row;\n        flex-wrap: wrap;\n        justify-content: center;\n        gap: 12px 20px;\n      }\n\n      .uc-promo-wrapper-middle span {\n        display: inline-block;\n      }\n    }\n  <\/style>\n\n  <section class=\"ucollection-promo\">\n    <div class=\"uc-promo-wrapper\">\n      <span class=\"mainuc-promo-wrapper-middle\">Achetez plus = Payez moins<\/span>\n\n      <div class=\"uc-promo-wrapper-middle\">\n        <span><strong>Après des années de travail acharné, nous n’avons plus le choix.<\/strong> Les factures ont gagné, et nous sommes contraints de tout vendre à des prix sacrifiés. En ce moment, tout notre stock est en <strong>liquidation finale<\/strong> avec des <strong>remises exceptionnelles allant jusqu’à 80 %.<\/strong><\/span>\n        <span><strong>-15 % de réduction<\/strong> dès 2 articles achetés<\/span>\n        <span><strong>-20 % de réduction<\/strong> dès 3 articles achetés<\/span>\n        <span><strong>-25 % de réduction<\/strong> dès 4 articles achetés<\/span>\n        <span><strong>-35 % de réduction<\/strong> dès 5 articles achetés<\/span>\n      <\/div>\n\n      <span class=\"upromo-footer\"><strong>Les remises sont appliquées automatiquement lors du passage en caisse.<\/strong><\/span>\n    <\/div>\n  <\/section>\n<\/div>"}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"title":"VENTE DE LIQUIDATION NOTRE BOUTIQUE À PARIS FERME"}},"text":{"type":"text","settings":{"enlarge_text":true,"text":"<p>C’est le cœur lourd que nous devons dire au revoir à notre stock actuel. Nous tenons à remercier toutes celles et ceux qui ont fait partie de notre aventure à Paris. Nous apprécions sincèrement votre amour et votre soutien.<br\/><br\/>Tous les produits qui ne sont plus disponibles seront retirés du site – les produits ci-dessous sont les derniers en stock.<br\/><br\/><strong>Réductions automatiques :<br\/><\/strong><br\/>Achetez 2 articles → <strong>15 % de réduction<\/strong><br\/><br\/>Achetez 3 articles → <strong>20 % de réduction<\/strong><br\/><br\/>Achetez 4 articles → <strong>25 % de réduction<\/strong><br\/><br\/>Achetez 10 articles → <strong>30 % de réduction<\/strong><br\/><br\/><br\/>Merci pour votre soutien au fil des années !<\/p>"}}},"block_order":["heading","text"],"disabled":true,"custom_css":["h2 {font-size: 32px;}"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"sp_custom_html_MPPD79":{"type":"sp-custom-html","disabled":true,"settings":{"title":"","custom_html":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0944\/8780\/6217\/files\/Amore_mio_16.png?v=1748387044\" alt=\"Amore Mio Image\">"}},"tab_slider_g6Cb8A":{"type":"tab-slider","blocks":{"collection_tab_kFc4M6":{"type":"collection_tab","settings":{"collection":"sweaters-hoodies"}},"collection_tab_exEEBW":{"type":"collection_tab","settings":{"collection":"long-sleeve-tops"}}},"block_order":["collection_tab_kFc4M6","collection_tab_exEEBW"],"name":"Tabs Slider","settings":{"padding_top":40,"padding_bottom":40,"show_view_all":true}},"featured-collection":{"type":"featured-collection","disabled":true,"settings":{"title":"SANDALS","home_featured_products":"sandals-1","per_row":4,"rows":2,"mobile_scrollable":true,"view_all":true,"divider":false}},"rich_text_kV8EPH":{"type":"rich-text","blocks":{"heading_4iANRY":{"type":"heading","settings":{"title":"NOUS CONTACTER"}},"text_dz7J7r":{"type":"text","settings":{"enlarge_text":false,"text":"<p>Nous répondons à tous les courriels dans les 24 heures en semaine et le week-end et sommes disponibles par courriel en semaine et le week-end entre 9 heures et 18 heures : <a href=\"\/pages\/contact\" title=\"Contactez-nous\">info@duboisatelier.fr<\/a><\/p>"}}},"block_order":["heading_4iANRY","text_dz7J7r"],"disabled":true,"name":"t:sections.rich-text.presets.rich_text.name","settings":{"align_text":"center","narrow_column":true,"divider":false}},"featured_collections_TGfnVJ":{"type":"featured-collections","blocks":{"collection_3NAmhz":{"type":"collection","settings":{"collection":"sandals-1","title":"Sandals","focal_point":"center center"}},"collection_6LwpdW":{"type":"collection","settings":{"collection":"dresses-bestsellers","title":"Dresses","focal_point":"center center"}}},"block_order":["collection_3NAmhz","collection_6LwpdW"],"disabled":true,"name":"t:sections.featured-collections.presets.collection_list.name","settings":{"title":"","divider":false,"per_row":4,"enable_gutter":true}},"featured_collection_dwGWft":{"type":"featured-collection","disabled":true,"name":"t:sections.featured-collection.presets.featured_collection.name","settings":{"title":"Dresses","home_featured_products":"dresses-collection","per_row":2,"rows":4,"mobile_scrollable":true,"view_all":true,"divider":false}},"featured_collections_7q6hNt":{"type":"featured-collections","blocks":{"collection_7FQFcH":{"type":"collection","settings":{"collection":"blouses-1","title":"","focal_point":"center center"}},"collection_Az7pnY":{"type":"collection","settings":{"collection":"long-sleeve-tops","title":"","focal_point":"center center"}},"collection_K8icDQ":{"type":"collection","settings":{"collection":"pants","title":"","focal_point":"center center"}},"collection_YjncxW":{"type":"collection","settings":{"collection":"bags-1","title":"","focal_point":"center center"}}},"block_order":["collection_7FQFcH","collection_Az7pnY","collection_K8icDQ","collection_YjncxW"],"name":"t:sections.featured-collections.presets.collection_list.name","settings":{"title":"End of Summer","divider":false,"per_row":4,"enable_gutter":true}},"tab_slider_W3KErn":{"type":"tab-slider","blocks":{"collection_tab_t3REMY":{"type":"collection_tab","settings":{"collection":"shirts-tops"}},"collection_tab_9yBXe8":{"type":"collection_tab","settings":{"collection":"pants"}}},"block_order":["collection_tab_t3REMY","collection_tab_9yBXe8"],"name":"Tabs Slider","settings":{"padding_top":40,"padding_bottom":40,"show_view_all":true}},"tab_slider_WMqQKa":{"type":"tab-slider","blocks":{"collection_tab_g4b6fN":{"type":"collection_tab","settings":{"collection":"heels"}},"collection_tab_qiMTwM":{"type":"collection_tab","settings":{"collection":"loafers"}}},"block_order":["collection_tab_g4b6fN","collection_tab_qiMTwM"],"name":"Tabs Slider","settings":{"padding_top":40,"padding_bottom":40,"show_view_all":true}},"sp_custom_html_AenHfE":{"type":"sp-custom-html","disabled":true,"name":"🚀SP - Custom HTML","settings":{"title":"","custom_html":"<div class=\"testimonials-section testimonials-template--16986402291777__testimonials_Hxt8ki text-center aos-init aos-animate\" data-section-id=\"template--16986402291777__testimonials_Hxt8ki\" data-section-type=\"testimonials\" data-aos=\"\">\n<div class=\"page-width\">\n      <div class=\"section-header\">\n        <h2>Here's what our customers say<\/h2>\n      <\/div>\n    <\/div>\n<div class=\"socialprooftesti social-proof\">\n    <!-- Tekst na de sterren -->\n  <span class=\"review-text\">Excellent <span class=\"ratingtest\">4.7<\/span> \/ 5 <\/span>\n  <!-- Volledig gevulde sterren -->\n  <span class=\"star\">★<\/span>\n  <span class=\"star\">★<\/span>\n  <span class=\"star\">★<\/span>\n  <span class=\"star\">★<\/span>\n  \n  <!-- Gedeeltelijk gevulde ster -->\n  <span class=\"half-star\"><\/span>\n\n  \n<\/div>  \n\n  <p class=\"morettest\">More than 3728+ reviews<\/p>\n<div class=\"slideshow-wrapper\">\n      <div class=\"testimonials-slider flickity-enabled is-draggable\" id=\"Testimonials-template--16986402291777__testimonials_Hxt8ki\" data-dots=\"true\" data-count=\"5\" tabindex=\"0\">\n<div class=\"flickity-viewport\" style=\"height: 346.177px; touch-action: pan-y;\"><div class=\"flickity-slider\" style=\"left: 0px; transform: translateX(0.5%);\">\n<div class=\"testimonials-slide testimonials-slide--testimonial_Cb4Prm aos-init aos-animate\" data-index=\"0\" data-aos=\"row-of-5\" style=\"position: absolute; left: 0px; transform: translateX(0%);\" aria-hidden=\"true\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★<\/span><cite>Perfect fit<\/cite><div class=\"rte-setting text-spacing\"><p>The clothing fits perfectly and is very comfortable. Thanks to the accurate size chart, choosing the right size was easy. I will definitely order again!<\/p><\/div>\n<div class=\"testimonials__info\">Anna H.<\/div>\n<\/blockquote>\n          <\/div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_hrwNn6 aos-init aos-animate is-selected\" data-index=\"1\" data-aos=\"row-of-5\" style=\"position: absolute; left: 0px; transform: translateX(100%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★<\/span><cite>Excellent customer service!<\/cite><div class=\"rte-setting text-spacing\"><p>The customer service was fast and friendly. Delivery was quick, and the products are of top quality. Highly recommend!<\/p><\/div>\n<div class=\"testimonials__info\">Mary Q.<\/div>\n<\/blockquote>\n          <\/div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_qdPckg aos-init aos-animate\" data-index=\"2\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(200%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★<\/span><cite>Attention to detail<\/cite><div class=\"rte-setting text-spacing\"><p>The beautiful packaging and high-quality materials impressed me. You can really feel the attention to detail. Great experience!<\/p><\/div>\n<div class=\"testimonials__info\">Nina B.<\/div>\n<\/blockquote>\n          <\/div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_UzxGeN aos-init aos-animate\" data-index=\"3\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(300%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★<\/span><cite>Excellent value for the money<\/cite><div class=\"rte-setting text-spacing\"><p>High quality products at fair prices. I'm glad I found this site and will definitely order again soon.<\/p><\/div>\n<div class=\"testimonials__info\">Ariana G.<\/div>\n<\/blockquote>\n          <\/div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_CrjjmM aos-init aos-animate\" data-index=\"4\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(-100%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★<\/span><cite>Easy and quick ordering<\/cite><div class=\"rte-setting text-spacing\"><p>User friendly website, easy ordering, and fast delivery. Products as described. Will gladly order again!<\/p><\/div>\n<div class=\"testimonials__info\">Sophie M.<\/div>\n<\/blockquote>\n          <\/div>\n<\/div><\/div>\n<ol class=\"flickity-page-dots\">\n<li class=\"dot\" aria-label=\"Page dot 1\">\n<\/li>\n<li class=\"dot is-selected\" aria-label=\"Page dot 2\" aria-current=\"step\">\n<\/li>\n<li class=\"dot\" aria-label=\"Page dot 3\">\n<\/li>\n<li class=\"dot\" aria-label=\"Page dot 4\">\n<\/li>\n<li class=\"dot\" aria-label=\"Page dot 5\">\n<\/li>\n<\/ol>\n<\/div>\n    <\/div>\n<\/div>"}},"text_and_image_Ekmc4n":{"type":"text-and-image","name":"t:sections.text-and-image.presets.image_with_text.name","settings":{"image":"shopify:\/\/shop_images\/ChatGPT_Image_Oct_6_2025_01_02_27_AM.png","image_mask":"none","image2":"shopify:\/\/shop_images\/freepik_edit_A-realistic-image-of-a-60yearold-woman-seen-from-b_540x_9ce778bf-5e1e-4e7f-aa4c-1a31100e849b.webp","image2_mask":"none","subtitle":"","title":"Farewell...","text":"<p>Hi, I’m <strong>Sofia<\/strong>. I’m a single mother to a wonderful daughter, <strong>Emma<\/strong>.<br\/><br\/>I’m the founder of Sofia Boutique California and have run it for nearly 26 years. This boutique meant everything to me and was our path to a better future.<\/p><p>But earlier this year, <strong>Emma<\/strong> was diagnosed with a serious health condition. <strong>She<\/strong> needs more care, more time, and more of me.<br\/><br\/>With a heavy heart, I’m holding one <strong>final Clearance Sale<\/strong> - up to <strong>80% off,<\/strong> to clear everything out before we close our doors for good.<\/p><p><strong>From the bottom of my heart, thank you for supporting me!<\/strong><\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"66","layout":"right","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"sp_image_riley_rPgYUa":{"type":"sp-image-riley","blocks":{"heading_PG7TLE":{"type":"heading","settings":{"heading_text":"POURQUOI LES CLIENTES NOUS FONT-ILS CONFIANCE ?","heading_tag":"h3"}},"divider_tBjQ6n":{"type":"divider","settings":{"divider_color":"#000000"}},"text_q7BQKb":{"type":"text","settings":{"section_text":"<p>✓ SERVICE CLIENTÈLE RÉACTIF<br\/><br\/>✓ GARANTIE DE REMBOURSEMENT<br\/><br\/>✓ LIVRAISON GRATUITE ET EXPRESS<\/p>"}}},"block_order":["heading_PG7TLE","divider_tBjQ6n","text_q7BQKb"],"disabled":true,"name":"🚀SP - Image Riley","settings":{"is_fullwidth":false,"img_position":"left","text_align":"left","inherit_fonts":true,"text_color":"#000000","text_bg_color":"#ffffff","section_padding_top":80,"section_padding_bottom":80,"text_padding_top":120,"text_padding_bottom":120,"custom_css":""}},"background_image_text_Jxm89g":{"type":"background-image-text","disabled":true,"name":"t:sections.background-image-text.presets.large_image_with_text_box.name","settings":{"subtitle":"Dubois atelier","title":"30 JOURS – J'AIME OU JE SUIS REMBOURSÉ","text":"<p>Nous savons que vous tomberez amoureuse de nos modèles, mais si le vêtement ne vous convient pas parfaitement, vous disposez de 30 jours pour le retourner sans problème. Profitez d'un shopping sans risque et trouvez votre nouveau look préféré dès aujourd'hui !<\/p>","button_label":"","button_link":"","layout":"left","height":550,"framed":false,"parallax":true,"parallax_direction":"top","lazyload_images":true}},"faq_Vx4YPp":{"type":"faq","blocks":{"question_EEf7NY":{"type":"question","settings":{"title":"Combien de temps prend la livraison ?","text":"<p>Le traitement de la commande prend environ 1 à 3 jours, nous veillons à ce que votre colis soit parfaitement traité. La livraison prend entre 4 et 7 jours ouvrables. Dès que votre commande est expédiée, vous recevez un e-mail de confirmation avec un numéro de suivi qui vous permet de suivre votre colis en temps réel. Le délai total est donc d'environ 10 jours ouvrables.<\/p>"}},"question_AR9VBG":{"type":"question","settings":{"title":"Puis-je retourner un article ?","text":"<p>Oui, vous disposez de 30 jours à compter de la réception de votre commande pour effectuer un retour. Les articles doivent être non portés, non lavés, et dans leur emballage d'origine. Pour initier un retour, veuillez consulter notre page dédiée aux retours.<\/p>"}},"question_QKB6Wm":{"type":"question","settings":{"title":"Que faire si ma commande est incomplète ou endommagée ?","text":"<p>Si vous recevez un article endommagé ou si un produit manque, contactez notre service client dans les 48 heures suivant la réception. Nous nous chargerons de résoudre le problème le plus rapidement possible.<\/p>"}},"question_KUz4ya":{"type":"question","settings":{"title":"Comment puis-je suivre ma commande ?","text":"<p>Une fois votre commande expédiée, vous recevrez un e-mail avec un lien de suivi. Vous pouvez également suivre votre commande directement depuis votre compte client, dans la rubrique \"Mes commandes\".<\/p>"}},"question_mneyAV":{"type":"question","settings":{"title":"Comment entretenir mes vêtements Toreia ?","text":"<p>Pour préserver la qualité et la durabilité de vos pièces Toreia, nous vous recommandons de les laver à la main à l’eau froide ou d’utiliser un cycle délicat en machine avec un filet de lavage. Évitez le sèche-linge et le repassage à haute température. Chaque article est accompagné d’une étiquette d’entretien : merci de bien la suivre pour garantir la longévité de vos vêtements.<\/p>"}}},"block_order":["question_EEf7NY","question_AR9VBG","question_QKB6Wm","question_KUz4ya","question_mneyAV"],"disabled":true,"settings":{"title":"QUESTIONS FRÉQUENTES"}},"map_fW7nh9":{"type":"map","disabled":true,"settings":{"map_title":"VISITEZ NOTRE SHOWROOM","address":"<p><em>Lundi - Vendredi : 10:00 - 20:00<\/em><\/p><p><em>Samedi : 10:00 - 20:00<\/em><\/p><p><em>Dimanche : 10:00 - 20:00<\/em><\/p>","map_address":"","api_key":"","show_button":false,"lazyload_images":true}}},"order":["slideshow_K7BMe3","sp_custom_html_gGDMPt","tab_slider_riLH3x","tab_slider_jqgE7C","hero_video_nPwCgD","rich_text_nDiC7f","sp_custom_html_8J4AMK","rich_text_GRnprD","sp_custom_html_GBijcz","rich-text","sp_custom_html_MPPD79","tab_slider_g6Cb8A","featured-collection","rich_text_kV8EPH","featured_collections_TGfnVJ","featured_collection_dwGWft","featured_collections_7q6hNt","tab_slider_W3KErn","tab_slider_WMqQKa","sp_custom_html_AenHfE","text_and_image_Ekmc4n","sp_image_riley_rPgYUa","background_image_text_Jxm89g","faq_Vx4YPp","map_fW7nh9"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_K7BMe3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_DG7hdH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "UP TO 80% OFF",
+            "title": "CLEARANCE SALE",
+            "title_size": 62,
+            "subheading": "",
+            "link": "shopify://collections/dresses-bestsellers",
+            "link_text": "Shop Now",
+            "link_2": "shopify://collections/frontpage",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/ChatGPT_Image_Nov_6_2025_12_42_09_PM.png",
+            "parallax_direction": "left",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "image_DG7hdH"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "sp_custom_html_gGDMPt": {
+      "type": "sp-custom-html",
+      "disabled": true,
+      "name": "🚀SP - Custom HTML",
+      "settings": {
+        "title": "",
+        "custom_html": "<div id=\"shopify-section-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\" class=\"shopify-section\">\n<style>\n  @font-face {\n  font-family: Montserrat;\n  font-weight: 400;\n  font-style: normal;\n  font-display: swap;\n  src: url(\"//lena-boutique.de/cdn/fonts/montserrat/montserrat_n4.81949fa0ac9fd2021e16436151e8eaa539321637.woff2?h1=bWNrZ3kwLXBkLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bGVuYS1ib3V0aXF1ZS5kZQ&hmac=a93ce1f6aa9e325012f241ea1904c398db80db64901f19c7616d5703435d74b0\") format(\"woff2\"),\n       url(\"//lena-boutique.de/cdn/fonts/montserrat/montserrat_n4.a6c632ca7b62da89c3594789ba828388aac693fe.woff?h1=bWNrZ3kwLXBkLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bGVuYS1ib3V0aXF1ZS5kZQ&hmac=013171f44078aaa4308b9e99a4ffab262d5591ae262b833aec70ca5a2babec70\") format(\"woff\");\n}\n\n\n  .ss-announcement-bar,\n  .ss-announcement-bar__message {\n    overflow: hidden;\n  }\n  .ss-announcement-bar:hover {\n    opacity:0.90;\n  }\n  .announcement-bar__link {\n    display: block;\n    width: 100%;\n    padding: 1.5rem 2rem;\n    text-decoration: none;\n    color: var(--text-color);\n    line-height:0;\n  }\n  .announcement-bar__link:hover {\n    color: var(--text-color);\n  }\n  #marq {\n    width: 100%;\n    border: inset;\n    overflow: hidden;\n    white-space: nowrap;\n    box-shadow: unset;\n    border: 0;\n    box-shadow: unset;\n    border-color: currentcolor;\n    vertical-align: middle;\n  }\n  \n  @keyframes marquesina-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG {\n    from {\n      transform: translateX(-50%);\n    }\n    to {\n      transform: translateX(0%);\n    }\n  }\n  @keyframes marquesina-reverse-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG {\n    from {\n      transform: translateX(0%);\n    }\n    to {\n      transform: translateX(50%);\n    }\n  }\n  \n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig {\n    display: inline-block;\n    overflow: hidden;\n    transform: translate(0);\n  }\n\n  .ss-announcement-bar__message {\n    text-align: center;\n    padding: 0;\n    margin: 0;\n    line-height: 1;\n    font-size: 12px;\n    font-family: Montserrat;\n    font-weight: 400;\n  }\n  #orig.reverse .announcement-bar__message {\n    display: flex;\n    flex-direction: row-reverse;\n  }\n  .ss-announcement-bar__message li {\n\n    line-height: 1;\n    font-size: 12px;\n    font-family: Montserrat;\n    font-weight: 400;\n    display: inline-block;\n    padding-right: 114px;\n    position: relative;\n\n  }\n  .ss-announcement-bar__message li::after {\n    content: '';\n    width: 3.5px;\n    height: 3.5px;\n    background-color: var(--text-color);\n    background-image: none;\n    opacity: 0.3;\n    border-radius: 50%;\n    position: absolute;\n    top: 40%;\n    right: 50px;\n  }\n  @media (max-width: 480px) {\n    #marq {\n      max-height: 39px;\n    }\n    .ss-announcement-bar__message li {\n      padding-right: 55px;\n    }\n    .ss-announcement-bar__message li::after {\n      right: 25px;\n    }\n  }\n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig {\n    animation: marquesina-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG var(--animation-duration, 45s) infinite normal linear 1s;\n  }\n\n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig.reverse {\n    animation: marquesina-reverse-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG var(--animation-duration, 45s) infinite normal linear 2s;\n  }\n</style>\n\n\n\n<template id=\"marquee-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\">\n  \n</template>\n\n<div class=\"ss-announcement-bar ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\" aria-label=\"Announcement\" style=\"background-color: #AC8469; --text-color: #000000; --animation-duration: 80s;\">\n    <div class=\"announcement-bar__link\">\n      <div class=\"\" id=\"marq\">\n        <span id=\"orig\">\n          <ul class=\"ss-announcement-bar__message\">\n            \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE/li>\n                \n                  </li>\n<li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 % /li>\n                \n              \n                \n                  </li>\n<li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 % </li>\n                \n              \n                \n                  \n<li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n\n              \n                <!-- <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li> -->\n              \n            \n          </ul>\n        </span>\n      </div>\n    </div>\n  </div>\n<div id=\"marquee-local-target-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\"></div>\n\n<script>\n  window.addEventListener('DOMContentLoaded', (event) => {\n    let cssTarget = '';\n    let productForm = cssTarget\n      ? document.querySelector(cssTarget)\n      : document.querySelector('#marquee-local-target-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG');\n\n    if (!productForm) return;\n\n    const templateContent = document.querySelector(\n      '#marquee-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG'\n    ).content;\n\n    productForm.insertAdjacentElement(\n      'beforebegin',\n      templateContent.firstElementChild\n    );\n\n    setTimeout(()=> {\n      var htmlElement = document.documentElement;\n\n      if (window.getComputedStyle(htmlElement).getPropertyValue('direction') === 'rtl') {\n          document.querySelector('#orig').classList.add('reverse');\n      }\n    }, 1000);\n  });\n</script>\n\n</div>"
+      }
+    },
+    "tab_slider_riLH3x": {
+      "type": "tab-slider",
+      "blocks": {
+        "collection_tab_yL9kYX": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "loafers"
+          }
+        },
+        "collection_tab_UXTFbt": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "heels"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tab_yL9kYX",
+        "collection_tab_UXTFbt"
+      ],
+      "name": "Tabs Slider",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_view_all": true
+      }
+    },
+    "tab_slider_jqgE7C": {
+      "type": "tab-slider",
+      "blocks": {
+        "collection_tab_aXGkYq": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "womens-jackets"
+          }
+        },
+        "collection_tab_H37wbL": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "evening-breeze-jackets"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tab_aXGkYq",
+        "collection_tab_H37wbL"
+      ],
+      "name": "Tabs Slider",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_view_all": true
+      }
+    },
+    "hero_video_nPwCgD": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "ON FERME\nTOUT À -70%",
+        "title_size": 80,
+        "subheading": "C’est votre dernière chance de shopper nos pièces préférées.",
+        "link_text": "Derniers articles – Achetez maintenant",
+        "link": "shopify://collections/meilleures-ventes",
+        "color_accent": "#51b786",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/cc589e2eb4a04429a90d4983a022efd1.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "rich_text_nDiC7f": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UDGADC": {
+          "type": "heading",
+          "settings": {
+            "title": "NOUS FERMONS NOS PORTES…"
+          }
+        },
+        "text_XCy9BP": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Après une période difficile, nous avons le cœur brisé en annonçant que nous devons fermer nos portes.<br/>Malgré les obstacles, nous sommes reconnaissants de l'incroyable soutien que vous nous avez apporté tout au long de notre parcours. Alors que ce chapitre touche à sa fin, nous tenons à vous exprimer nos remerciements les plus sincères pour avoir fait partie de notre aventure. En guise de remerciement, nous vous offrons des remises spéciales.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UDGADC",
+        "text_XCy9BP"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "sp_custom_html_8J4AMK": {
+      "type": "sp-custom-html",
+      "disabled": true,
+      "name": "🚀SP - Custom HTML",
+      "settings": {
+        "title": "",
+        "custom_html": "<div id=\"shopify-section-template--25090185527634__banner-prices\" class=\"shopify-section\">\n  <div class=\"banner-prices\" style=\"background-color: #121212; padding: 7px 11px;\">\n    <div class=\"banner-content\">\n      <p class=\"banner-text\" style=\"color: #ffffff; font-size: 16px;\">\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-15%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">2</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-20%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">3</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-25%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">4</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-35%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">5</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-45%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">10+</span>\n          articles\n        </span>\n      </p>\n      <p class=\"automatic-text\" style=\"color: #ffffff;\">\n        La réduction est appliquée automatiquement dans votre panier!\n      </p>\n    </div>\n  </div>\n\n  <style>\n    .banner-prices {\n      text-align: center;\n      width: 100%;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n    }\n    \n    .banner-text {\n      margin: 0;\n      line-height: 1.5;\n    }\n    \n    .banner-segment {\n      display: inline-block;\n      padding: 4px 0;\n    }\n    \n    .separator {\n      margin: 0 15px;\n      color: rgba(0, 0, 0, 0.3);\n    }\n\n    @media screen and (max-width: 749px) {\n      .banner-text {\n        display: flex;\n        flex-direction: column;\n        gap: 8px;\n      }\n      \n      .banner-segment {\n        display: block;\n      }\n      \n      .separator {\n        display: none;\n      }\n    }\n\n    .banner-content {\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n      gap: 4px;\n    }\n\n    .automatic-text {\n      margin: 0;\n      font-size: 12px;\n      opacity: 0.8;\n    }\n  </style>\n</div>"
+      }
+    },
+    "rich_text_GRnprD": {
+      "type": "rich-text",
+      "blocks": {
+        "text_93YBat": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Les remises s'appliquent automatiquement et peuvent être combinées à des articles d'autres collections lors de notre vente de clôture.<em><br/><br/></em>Ne vous inquiétez pas, vous pouvez toujours retourner les articles après <strong>30 jours </strong>s'il y a un problème ! Nous fermons jusqu'à ce que nous ayons vendu nos articles dans notre magasin.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_93YBat"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "sp_custom_html_GBijcz": {
+      "type": "sp-custom-html",
+      "disabled": true,
+      "name": "🚀SP - Custom HTML",
+      "settings": {
+        "title": "",
+        "custom_html": "<div id=\"shopify-section-template--23559008223560__u_collection_promo_nXXei9\" class=\"shopify-section\">\n  <style>\n    /* Outer section with grey background */\n    .ucollection-promo {\n      background: #f9f9f9;\n      padding: 30px 0;\n    }\n\n    /* Inner container for the promo content with white background */\n    .uc-promo-wrapper {\n      background: #ffffff;\n      color: #1c1d1d;\n      padding: 30px 20px;\n      text-align: center;\n      max-width: 1000px;\n      margin: 0 auto;\n      border-radius: 8px; /* Optional: adds rounded corners */\n    }\n\n    /* Main title styling */\n    .mainuc-promo-wrapper-middle {\n      font-size: 18px;\n      font-weight: bold;\n    }\n\n    /* Promo text styling */\n    .uc-promo-wrapper-middle {\n      display: flex;\n      flex-direction: column;\n      gap: 10px;\n      font-size: 16px;\n      line-height: 1.6;\n    }\n\n    .uc-promo-wrapper-middle span {\n      display: block;\n    }\n\n    /* Footer text styling */\n    .upromo-footer {\n      font-size: 14px;\n      font-style: italic;\n      color: #444;\n    }\n\n    /* Responsive behavior for larger screens */\n    @media screen and (min-width: 768px) {\n      .uc-promo-wrapper-middle {\n        flex-direction: row;\n        flex-wrap: wrap;\n        justify-content: center;\n        gap: 12px 20px;\n      }\n\n      .uc-promo-wrapper-middle span {\n        display: inline-block;\n      }\n    }\n  </style>\n\n  <section class=\"ucollection-promo\">\n    <div class=\"uc-promo-wrapper\">\n      <span class=\"mainuc-promo-wrapper-middle\">Achetez plus = Payez moins</span>\n\n      <div class=\"uc-promo-wrapper-middle\">\n        <span><strong>Après des années de travail acharné, nous n’avons plus le choix.</strong> Les factures ont gagné, et nous sommes contraints de tout vendre à des prix sacrifiés. En ce moment, tout notre stock est en <strong>liquidation finale</strong> avec des <strong>remises exceptionnelles allant jusqu’à 80 %.</strong></span>\n        <span><strong>-15 % de réduction</strong> dès 2 articles achetés</span>\n        <span><strong>-20 % de réduction</strong> dès 3 articles achetés</span>\n        <span><strong>-25 % de réduction</strong> dès 4 articles achetés</span>\n        <span><strong>-35 % de réduction</strong> dès 5 articles achetés</span>\n      </div>\n\n      <span class=\"upromo-footer\"><strong>Les remises sont appliquées automatiquement lors du passage en caisse.</strong></span>\n    </div>\n  </section>\n</div>"
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "VENTE DE LIQUIDATION NOTRE BOUTIQUE À PARIS FERME"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>C’est le cœur lourd que nous devons dire au revoir à notre stock actuel. Nous tenons à remercier toutes celles et ceux qui ont fait partie de notre aventure à Paris. Nous apprécions sincèrement votre amour et votre soutien.<br/><br/>Tous les produits qui ne sont plus disponibles seront retirés du site – les produits ci-dessous sont les derniers en stock.<br/><br/><strong>Réductions automatiques :<br/></strong><br/>Achetez 2 articles → <strong>15 % de réduction</strong><br/><br/>Achetez 3 articles → <strong>20 % de réduction</strong><br/><br/>Achetez 4 articles → <strong>25 % de réduction</strong><br/><br/>Achetez 10 articles → <strong>30 % de réduction</strong><br/><br/><br/>Merci pour votre soutien au fil des années !</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-size: 32px;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "sp_custom_html_MPPD79": {
+      "type": "sp-custom-html",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "custom_html": "<img src=\"https://cdn.shopify.com/s/files/1/0944/8780/6217/files/Amore_mio_16.png?v=1748387044\" alt=\"Amore Mio Image\">"
+      }
+    },
+    "tab_slider_g6Cb8A": {
+      "type": "tab-slider",
+      "blocks": {
+        "collection_tab_kFc4M6": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "sweaters-hoodies"
+          }
+        },
+        "collection_tab_exEEBW": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "long-sleeve-tops"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tab_kFc4M6",
+        "collection_tab_exEEBW"
+      ],
+      "name": "Tabs Slider",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_view_all": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "SANDALS",
+        "home_featured_products": "sandals-1",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich_text_kV8EPH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4iANRY": {
+          "type": "heading",
+          "settings": {
+            "title": "NOUS CONTACTER"
+          }
+        },
+        "text_dz7J7r": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Nous répondons à tous les courriels dans les 24 heures en semaine et le week-end et sommes disponibles par courriel en semaine et le week-end entre 9 heures et 18 heures : <a href=\"/pages/contact\" title=\"Contactez-nous\">info@duboisatelier.fr</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4iANRY",
+        "text_dz7J7r"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured_collections_TGfnVJ": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_3NAmhz": {
+          "type": "collection",
+          "settings": {
+            "collection": "sandals-1",
+            "title": "Sandals",
+            "focal_point": "center center"
+          }
+        },
+        "collection_6LwpdW": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses-bestsellers",
+            "title": "Dresses",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_3NAmhz",
+        "collection_6LwpdW"
+      ],
+      "disabled": true,
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "featured_collection_dwGWft": {
+      "type": "featured-collection",
+      "disabled": true,
+      "name": "t:sections.featured-collection.presets.featured_collection.name",
+      "settings": {
+        "title": "Dresses",
+        "home_featured_products": "dresses-collection",
+        "per_row": 2,
+        "rows": 4,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collections_7q6hNt": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_7FQFcH": {
+          "type": "collection",
+          "settings": {
+            "collection": "blouses-1",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_Az7pnY": {
+          "type": "collection",
+          "settings": {
+            "collection": "long-sleeve-tops",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_K8icDQ": {
+          "type": "collection",
+          "settings": {
+            "collection": "pants",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_YjncxW": {
+          "type": "collection",
+          "settings": {
+            "collection": "bags-1",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_7FQFcH",
+        "collection_Az7pnY",
+        "collection_K8icDQ",
+        "collection_YjncxW"
+      ],
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "End of Summer",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "tab_slider_W3KErn": {
+      "type": "tab-slider",
+      "blocks": {
+        "collection_tab_t3REMY": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "shirts-tops"
+          }
+        },
+        "collection_tab_9yBXe8": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "pants"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tab_t3REMY",
+        "collection_tab_9yBXe8"
+      ],
+      "name": "Tabs Slider",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_view_all": true
+      }
+    },
+    "tab_slider_WMqQKa": {
+      "type": "tab-slider",
+      "blocks": {
+        "collection_tab_g4b6fN": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "heels"
+          }
+        },
+        "collection_tab_qiMTwM": {
+          "type": "collection_tab",
+          "settings": {
+            "collection": "loafers"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tab_g4b6fN",
+        "collection_tab_qiMTwM"
+      ],
+      "name": "Tabs Slider",
+      "settings": {
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_view_all": true
+      }
+    },
+    "sp_custom_html_AenHfE": {
+      "type": "sp-custom-html",
+      "disabled": true,
+      "name": "🚀SP - Custom HTML",
+      "settings": {
+        "title": "",
+        "custom_html": "<div class=\"testimonials-section testimonials-template--16986402291777__testimonials_Hxt8ki text-center aos-init aos-animate\" data-section-id=\"template--16986402291777__testimonials_Hxt8ki\" data-section-type=\"testimonials\" data-aos=\"\">\n<div class=\"page-width\">\n      <div class=\"section-header\">\n        <h2>Here's what our customers say</h2>\n      </div>\n    </div>\n<div class=\"socialprooftesti social-proof\">\n    <!-- Tekst na de sterren -->\n  <span class=\"review-text\">Excellent <span class=\"ratingtest\">4.7</span> / 5 </span>\n  <!-- Volledig gevulde sterren -->\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  \n  <!-- Gedeeltelijk gevulde ster -->\n  <span class=\"half-star\"></span>\n\n  \n</div>  \n\n  <p class=\"morettest\">More than 3728+ reviews</p>\n<div class=\"slideshow-wrapper\">\n      <div class=\"testimonials-slider flickity-enabled is-draggable\" id=\"Testimonials-template--16986402291777__testimonials_Hxt8ki\" data-dots=\"true\" data-count=\"5\" tabindex=\"0\">\n<div class=\"flickity-viewport\" style=\"height: 346.177px; touch-action: pan-y;\"><div class=\"flickity-slider\" style=\"left: 0px; transform: translateX(0.5%);\">\n<div class=\"testimonials-slide testimonials-slide--testimonial_Cb4Prm aos-init aos-animate\" data-index=\"0\" data-aos=\"row-of-5\" style=\"position: absolute; left: 0px; transform: translateX(0%);\" aria-hidden=\"true\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Perfect fit</cite><div class=\"rte-setting text-spacing\"><p>The clothing fits perfectly and is very comfortable. Thanks to the accurate size chart, choosing the right size was easy. I will definitely order again!</p></div>\n<div class=\"testimonials__info\">Anna H.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_hrwNn6 aos-init aos-animate is-selected\" data-index=\"1\" data-aos=\"row-of-5\" style=\"position: absolute; left: 0px; transform: translateX(100%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Excellent customer service!</cite><div class=\"rte-setting text-spacing\"><p>The customer service was fast and friendly. Delivery was quick, and the products are of top quality. Highly recommend!</p></div>\n<div class=\"testimonials__info\">Mary Q.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_qdPckg aos-init aos-animate\" data-index=\"2\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(200%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Attention to detail</cite><div class=\"rte-setting text-spacing\"><p>The beautiful packaging and high-quality materials impressed me. You can really feel the attention to detail. Great experience!</p></div>\n<div class=\"testimonials__info\">Nina B.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_UzxGeN aos-init aos-animate\" data-index=\"3\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(300%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Excellent value for the money</cite><div class=\"rte-setting text-spacing\"><p>High quality products at fair prices. I'm glad I found this site and will definitely order again soon.</p></div>\n<div class=\"testimonials__info\">Ariana G.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_CrjjmM aos-init aos-animate\" data-index=\"4\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(-100%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Easy and quick ordering</cite><div class=\"rte-setting text-spacing\"><p>User friendly website, easy ordering, and fast delivery. Products as described. Will gladly order again!</p></div>\n<div class=\"testimonials__info\">Sophie M.</div>\n</blockquote>\n          </div>\n</div></div>\n<ol class=\"flickity-page-dots\">\n<li class=\"dot\" aria-label=\"Page dot 1\">\n</li>\n<li class=\"dot is-selected\" aria-label=\"Page dot 2\" aria-current=\"step\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 3\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 4\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 5\">\n</li>\n</ol>\n</div>\n    </div>\n</div>"
+      }
+    },
+    "text_and_image_Ekmc4n": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Farewell...",
+        "text": "<p>Hi, I’m <strong>Sofia</strong>. I’m a single mother to a wonderful daughter, <strong>Emma</strong>.<br/><br/>I’m the founder of Sofia Boutique California and have run it for nearly 26 years. This boutique meant everything to me and was our path to a better future.</p><p>But earlier this year, <strong>Emma</strong> was diagnosed with a serious health condition. <strong>She</strong> needs more care, more time, and more of me.<br/><br/>With a heavy heart, I’m holding one <strong>final Clearance Sale</strong> - up to <strong>80% off,</strong> to clear everything out before we close our doors for good.</p><p><strong>From the bottom of my heart, thank you for supporting me!</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "sp_image_riley_rPgYUa": {
+      "type": "sp-image-riley",
+      "blocks": {
+        "heading_PG7TLE": {
+          "type": "heading",
+          "settings": {
+            "heading_text": "POURQUOI LES CLIENTES NOUS FONT-ILS CONFIANCE ?",
+            "heading_tag": "h3"
+          }
+        },
+        "divider_tBjQ6n": {
+          "type": "divider",
+          "settings": {
+            "divider_color": "#000000"
+          }
+        },
+        "text_q7BQKb": {
+          "type": "text",
+          "settings": {
+            "section_text": "<p>✓ SERVICE CLIENTÈLE RÉACTIF<br/><br/>✓ GARANTIE DE REMBOURSEMENT<br/><br/>✓ LIVRAISON GRATUITE ET EXPRESS</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PG7TLE",
+        "divider_tBjQ6n",
+        "text_q7BQKb"
+      ],
+      "disabled": true,
+      "name": "🚀SP - Image Riley",
+      "settings": {
+        "is_fullwidth": false,
+        "img_position": "left",
+        "text_align": "left",
+        "inherit_fonts": true,
+        "text_color": "#000000",
+        "text_bg_color": "#ffffff",
+        "section_padding_top": 80,
+        "section_padding_bottom": 80,
+        "text_padding_top": 120,
+        "text_padding_bottom": 120,
+        "custom_css": ""
+      }
+    },
+    "background_image_text_Jxm89g": {
+      "type": "background-image-text",
+      "disabled": true,
+      "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
+      "settings": {
+        "subtitle": "Dubois atelier",
+        "title": "30 JOURS – J'AIME OU JE SUIS REMBOURSÉ",
+        "text": "<p>Nous savons que vous tomberez amoureuse de nos modèles, mais si le vêtement ne vous convient pas parfaitement, vous disposez de 30 jours pour le retourner sans problème. Profitez d'un shopping sans risque et trouvez votre nouveau look préféré dès aujourd'hui !</p>",
+        "button_label": "",
+        "button_link": "",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "faq_Vx4YPp": {
+      "type": "faq",
+      "blocks": {
+        "question_EEf7NY": {
+          "type": "question",
+          "settings": {
+            "title": "Combien de temps prend la livraison ?",
+            "text": "<p>Le traitement de la commande prend environ 1 à 3 jours, nous veillons à ce que votre colis soit parfaitement traité. La livraison prend entre 4 et 7 jours ouvrables. Dès que votre commande est expédiée, vous recevez un e-mail de confirmation avec un numéro de suivi qui vous permet de suivre votre colis en temps réel. Le délai total est donc d'environ 10 jours ouvrables.</p>"
+          }
+        },
+        "question_AR9VBG": {
+          "type": "question",
+          "settings": {
+            "title": "Puis-je retourner un article ?",
+            "text": "<p>Oui, vous disposez de 30 jours à compter de la réception de votre commande pour effectuer un retour. Les articles doivent être non portés, non lavés, et dans leur emballage d'origine. Pour initier un retour, veuillez consulter notre page dédiée aux retours.</p>"
+          }
+        },
+        "question_QKB6Wm": {
+          "type": "question",
+          "settings": {
+            "title": "Que faire si ma commande est incomplète ou endommagée ?",
+            "text": "<p>Si vous recevez un article endommagé ou si un produit manque, contactez notre service client dans les 48 heures suivant la réception. Nous nous chargerons de résoudre le problème le plus rapidement possible.</p>"
+          }
+        },
+        "question_KUz4ya": {
+          "type": "question",
+          "settings": {
+            "title": "Comment puis-je suivre ma commande ?",
+            "text": "<p>Une fois votre commande expédiée, vous recevrez un e-mail avec un lien de suivi. Vous pouvez également suivre votre commande directement depuis votre compte client, dans la rubrique \"Mes commandes\".</p>"
+          }
+        },
+        "question_mneyAV": {
+          "type": "question",
+          "settings": {
+            "title": "Comment entretenir mes vêtements Toreia ?",
+            "text": "<p>Pour préserver la qualité et la durabilité de vos pièces Toreia, nous vous recommandons de les laver à la main à l’eau froide ou d’utiliser un cycle délicat en machine avec un filet de lavage. Évitez le sèche-linge et le repassage à haute température. Chaque article est accompagné d’une étiquette d’entretien : merci de bien la suivre pour garantir la longévité de vos vêtements.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_EEf7NY",
+        "question_AR9VBG",
+        "question_QKB6Wm",
+        "question_KUz4ya",
+        "question_mneyAV"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "QUESTIONS FRÉQUENTES"
+      }
+    },
+    "map_fW7nh9": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "map_title": "VISITEZ NOTRE SHOWROOM",
+        "address": "<p><em>Lundi - Vendredi : 10:00 - 20:00</em></p><p><em>Samedi : 10:00 - 20:00</em></p><p><em>Dimanche : 10:00 - 20:00</em></p>",
+        "map_address": "",
+        "api_key": "",
+        "show_button": false,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_K7BMe3",
+    "sp_custom_html_gGDMPt",
+    "tab_slider_riLH3x",
+    "tab_slider_jqgE7C",
+    "hero_video_nPwCgD",
+    "rich_text_nDiC7f",
+    "sp_custom_html_8J4AMK",
+    "rich_text_GRnprD",
+    "sp_custom_html_GBijcz",
+    "rich-text",
+    "sp_custom_html_MPPD79",
+    "tab_slider_g6Cb8A",
+    "featured-collection",
+    "rich_text_kV8EPH",
+    "featured_collections_TGfnVJ",
+    "featured_collection_dwGWft",
+    "featured_collections_7q6hNt",
+    "tab_slider_W3KErn",
+    "tab_slider_WMqQKa",
+    "sp_custom_html_AenHfE",
+    "text_and_image_Ekmc4n",
+    "sp_image_riley_rPgYUa",
+    "background_image_text_Jxm89g",
+    "faq_Vx4YPp",
+    "map_fW7nh9"
+  ]
+}

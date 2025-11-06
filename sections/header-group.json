@@ -151,6 +151,7 @@
     },
     "selluxe_collection_list_nY3YaA": {
       "type": "selluxe-collection-list",
+      "disabled": true,
       "name": "Selluxe Collection List",
       "settings": {
         "collection_list": [
