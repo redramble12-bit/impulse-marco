@@ -268,7 +268,7 @@
       "name": "t:sections.featured-collections.presets.collection_list.name",
       "settings": {
         "title": "",
-        "divider": false,
+        "divider": true,
         "per_row": 2,
         "enable_gutter": true
       }
