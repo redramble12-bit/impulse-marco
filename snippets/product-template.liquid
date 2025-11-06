@@ -216,7 +216,7 @@
   </span>
 {%- endif -%}
 
-                      <span {% unless current_variant.compare_at_price  %}style="color: #f9e4e4; font-weight: 700; font-size: 27px!important;"{% endunless %} data-product-price
+                      <span {% unless current_variant.compare_at_price  %}style="color: #D1A972; font-weight: 700; font-size: 27px!important;"{% endunless %} data-product-price
                         class="product__price{% if current_variant.compare_at_price > current_variant.price %} on-sale{% endif %}">
                         {%- unless product.empty? -%}
                           {{ current_variant.price | money_with_currency }}
@@ -259,7 +259,7 @@
 
                   {% if product.compare_at_price > product.price %}
                     {% assign discount = product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price %}
-                        <span class="badge" style="background: ; color: white; border-radius: 0px; padding: 5px 10px; font-weight: 500; font-size: 18px;">
+                        <span class="badge" style="background: ; color: black; border-radius: 0px; padding: 5px 10px; font-weight: 500; font-size: 18px;">
                           Save Today {{ discount | round }}%
                       </span>
                       {% endif %}
