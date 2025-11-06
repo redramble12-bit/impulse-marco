@@ -133,8 +133,8 @@
         "announcement_VzRJtC": {
           "type": "announcement",
           "settings": {
-            "text": "CLEARANCE SALE ENDS TODAY",
-            "link_text": "BUY 2, EXTRA 10% OFF | BUY 3, EXTRA 15% OFF",
+            "text": "",
+            "link_text": "BUY 4, GET AN EXTRA 20% OFF",
             "link": ""
           }
         }
