@@ -349,7 +349,7 @@
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "left",
+        "align_text": "center",
         "image_width": "66",
         "layout": "right",
         "divider": false,
