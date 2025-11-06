@@ -101,7 +101,15 @@
           "type": "menu",
           "settings": {
             "show_footer_title": true,
-            "menu": "footer",
+            "menu": "informations-1",
+            "container_width": 24
+          }
+        },
+        "menu_G8r94G": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "customer-account-main-menu",
             "container_width": 24
           }
         }
@@ -110,7 +118,8 @@
         "footer-0",
         "newsletter_VhgAaG",
         "custom_nTG8dx",
-        "menu_APzbxd"
+        "menu_APzbxd",
+        "menu_G8r94G"
       ],
       "settings": {
         "show_locale_selector": true,
