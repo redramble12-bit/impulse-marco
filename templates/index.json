@@ -81,33 +81,6 @@
         "show_view_all": true
       }
     },
-    "tab_slider_jqgE7C": {
-      "type": "tab-slider",
-      "blocks": {
-        "collection_tab_aXGkYq": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "womens-jackets"
-          }
-        },
-        "collection_tab_H37wbL": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "evening-breeze-jackets"
-          }
-        }
-      },
-      "block_order": [
-        "collection_tab_aXGkYq",
-        "collection_tab_H37wbL"
-      ],
-      "name": "Tabs Slider",
-      "settings": {
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_view_all": true
-      }
-    },
     "featured_collections_TGfnVJ": {
       "type": "featured-collections",
       "blocks": {
@@ -201,46 +174,6 @@
         "custom_html": "<img src=\"https://cdn.shopify.com/s/files/1/0944/8780/6217/files/Amore_mio_16.png?v=1748387044\" alt=\"Amore Mio Image\">"
       }
     },
-    "tab_slider_g6Cb8A": {
-      "type": "tab-slider",
-      "blocks": {
-        "collection_tab_kFc4M6": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "sweaters-hoodies"
-          }
-        }
-      },
-      "block_order": [
-        "collection_tab_kFc4M6"
-      ],
-      "name": "Tabs Slider",
-      "settings": {
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_view_all": true
-      }
-    },
-    "tab_slider_Yjc84W": {
-      "type": "tab-slider",
-      "blocks": {
-        "collection_tab_FVpRpN": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "sweaters-hoodies"
-          }
-        }
-      },
-      "block_order": [
-        "collection_tab_FVpRpN"
-      ],
-      "name": "Tabs Slider",
-      "settings": {
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_view_all": true
-      }
-    },
     "featured_collections_7q6hNt": {
       "type": "featured-collections",
       "blocks": {
@@ -273,58 +206,26 @@
         "enable_gutter": true
       }
     },
-    "tab_slider_W3KErn": {
-      "type": "tab-slider",
-      "blocks": {
-        "collection_tab_t3REMY": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "shirts-tops"
-          }
-        },
-        "collection_tab_9yBXe8": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "pants"
-          }
-        }
-      },
-      "block_order": [
-        "collection_tab_t3REMY",
-        "collection_tab_9yBXe8"
-      ],
-      "name": "Tabs Slider",
+    "text_and_image_wfQpQU": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_view_all": true
-      }
-    },
-    "tab_slider_WMqQKa": {
-      "type": "tab-slider",
-      "blocks": {
-        "collection_tab_g4b6fN": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "heels"
-          }
-        },
-        "collection_tab_qiMTwM": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "loafers"
-          }
-        }
-      },
-      "block_order": [
-        "collection_tab_g4b6fN",
-        "collection_tab_qiMTwM"
-      ],
-      "name": "Tabs Slider",
-      "settings": {
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_view_all": true
+        "image": "shopify://shop_images/Warehouse_Efficiency_at_The_Maison_d3e60d2a-3a36-47e4-a66c-acf192f99585.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "the maison",
+        "text": "<p>På THE MAISON strävar vi efter överkomliga priser <br/>för våra kunder, så att du kan njuta av våra produkter utan att betala <br/>för mycket. </p><p>Sedan 2005 har vi funnits och vi arbetar alltid för <br/>att erbjuda kvalitet och bra service. Som du kan förvänta dig av oss <br/>står vi för fraktkostnaderna och din beställning levereras hem till dig <br/>utan extra kostnader.</p><p>Vill du returnera din beställning? Det går också smidigt och utan bekymmer hos oss!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "sp_custom_html_AenHfE": {
@@ -334,27 +235,6 @@
       "settings": {
         "title": "",
         "custom_html": "<div class=\"testimonials-section testimonials-template--16986402291777__testimonials_Hxt8ki text-center aos-init aos-animate\" data-section-id=\"template--16986402291777__testimonials_Hxt8ki\" data-section-type=\"testimonials\" data-aos=\"\">\n<div class=\"page-width\">\n      <div class=\"section-header\">\n        <h2>Here's what our customers say</h2>\n      </div>\n    </div>\n<div class=\"socialprooftesti social-proof\">\n    <!-- Tekst na de sterren -->\n  <span class=\"review-text\">Excellent <span class=\"ratingtest\">4.7</span> / 5 </span>\n  <!-- Volledig gevulde sterren -->\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  \n  <!-- Gedeeltelijk gevulde ster -->\n  <span class=\"half-star\"></span>\n\n  \n</div>  \n\n  <p class=\"morettest\">More than 3728+ reviews</p>\n<div class=\"slideshow-wrapper\">\n      <div class=\"testimonials-slider flickity-enabled is-draggable\" id=\"Testimonials-template--16986402291777__testimonials_Hxt8ki\" data-dots=\"true\" data-count=\"5\" tabindex=\"0\">\n<div class=\"flickity-viewport\" style=\"height: 346.177px; touch-action: pan-y;\"><div class=\"flickity-slider\" style=\"left: 0px; transform: translateX(0.5%);\">\n<div class=\"testimonials-slide testimonials-slide--testimonial_Cb4Prm aos-init aos-animate\" data-index=\"0\" data-aos=\"row-of-5\" style=\"position: absolute; left: 0px; transform: translateX(0%);\" aria-hidden=\"true\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Perfect fit</cite><div class=\"rte-setting text-spacing\"><p>The clothing fits perfectly and is very comfortable. Thanks to the accurate size chart, choosing the right size was easy. I will definitely order again!</p></div>\n<div class=\"testimonials__info\">Anna H.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_hrwNn6 aos-init aos-animate is-selected\" data-index=\"1\" data-aos=\"row-of-5\" style=\"position: absolute; left: 0px; transform: translateX(100%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Excellent customer service!</cite><div class=\"rte-setting text-spacing\"><p>The customer service was fast and friendly. Delivery was quick, and the products are of top quality. Highly recommend!</p></div>\n<div class=\"testimonials__info\">Mary Q.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_qdPckg aos-init aos-animate\" data-index=\"2\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(200%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Attention to detail</cite><div class=\"rte-setting text-spacing\"><p>The beautiful packaging and high-quality materials impressed me. You can really feel the attention to detail. Great experience!</p></div>\n<div class=\"testimonials__info\">Nina B.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_UzxGeN aos-init aos-animate\" data-index=\"3\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(300%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Excellent value for the money</cite><div class=\"rte-setting text-spacing\"><p>High quality products at fair prices. I'm glad I found this site and will definitely order again soon.</p></div>\n<div class=\"testimonials__info\">Ariana G.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_CrjjmM aos-init aos-animate\" data-index=\"4\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(-100%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Easy and quick ordering</cite><div class=\"rte-setting text-spacing\"><p>User friendly website, easy ordering, and fast delivery. Products as described. Will gladly order again!</p></div>\n<div class=\"testimonials__info\">Sophie M.</div>\n</blockquote>\n          </div>\n</div></div>\n<ol class=\"flickity-page-dots\">\n<li class=\"dot\" aria-label=\"Page dot 1\">\n</li>\n<li class=\"dot is-selected\" aria-label=\"Page dot 2\" aria-current=\"step\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 3\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 4\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 5\">\n</li>\n</ol>\n</div>\n    </div>\n</div>"
-      }
-    },
-    "text_and_image_Ekmc4n": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "CELEBRATING 10 YEARS OF LOVE AND COMFORT!",
-        "text": "<p>I’m <strong>Avery</strong>, and I started this little fashion store as a mom, just hoping to support my daughter, Rosewood.</p><p>There were nights I cried, wondering how I’d make it through. But every single order gave me hope.</p><p>You helped me provide for her… and build something far greater than I ever dreamed of.</p><p>Today, we’re celebrating our store anniversary, and it’s time to celebrate with you.</p><p>For today only: Enjoy up to<strong> 80% OFF storewide! </strong>❤️</p><p>This isn’t just a sale, it’s a moment to share our gratitude and joy for how far we’ve come.</p><p><strong>With all my love,<br/>Avery & Rosewood</strong></p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "66",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
       }
     },
     "tab_slider_XqzGNa": {
@@ -464,19 +344,14 @@
     "slideshow_K7BMe3",
     "sp_custom_html_gGDMPt",
     "tab_slider_riLH3x",
-    "tab_slider_jqgE7C",
     "featured_collections_TGfnVJ",
     "hero_video_nPwCgD",
     "sp_custom_html_8J4AMK",
     "sp_custom_html_GBijcz",
     "sp_custom_html_MPPD79",
-    "tab_slider_g6Cb8A",
-    "tab_slider_Yjc84W",
     "featured_collections_7q6hNt",
-    "tab_slider_W3KErn",
-    "tab_slider_WMqQKa",
+    "text_and_image_wfQpQU",
     "sp_custom_html_AenHfE",
-    "text_and_image_Ekmc4n",
     "tab_slider_XqzGNa",
     "tab_slider_nBt63Q",
     "faq_Vx4YPp",
