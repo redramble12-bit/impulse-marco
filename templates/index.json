@@ -228,6 +228,10 @@
         "lazyload_images": true
       }
     },
+    "17641652572ed37377": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "sp_custom_html_AenHfE": {
       "type": "sp-custom-html",
       "disabled": true,
@@ -359,6 +363,7 @@
     "sp_custom_html_MPPD79",
     "featured_collections_7q6hNt",
     "text_and_image_wfQpQU",
+    "17641652572ed37377",
     "sp_custom_html_AenHfE",
     "tab_slider_XqzGNa",
     "tab_slider_nBt63Q",
