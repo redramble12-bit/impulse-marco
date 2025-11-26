@@ -283,36 +283,43 @@
         "question_EEf7NY": {
           "type": "question",
           "settings": {
-            "title": "Do you offer free shipping?",
-            "text": "<p>Yes, we offer Free Premium Shipping + Track & Trace, because we value you as a customer and want to provide you with the best service.</p>"
+            "title": "Hur kan jag returnera min beställning?",
+            "text": "<p><br/>Är du nöjd med din beställning? Innan du öppnar en tvist i din Klarna-portal kan du kontakta <strong>info@trevlig-borg.se</strong><br/><br/>Ange <strong>DISPUTE</strong> i ämnesraden och låt oss veta vad som händer.<br/><br/>Dessa e-postmeddelanden behandlas med högsta prioritet och kommer att <br/>lösa ditt problem snabbare än om du öppnar ett klagomål i <br/>Klarna-portalen!</p>"
           }
         },
         "question_AR9VBG": {
           "type": "question",
           "settings": {
-            "title": "Can I return the item(s) if I don’t like them?",
-            "text": "<p>Yes, you can return your order within 30 days of receiving it.</p>"
+            "title": "Den förväntade leveranstiden har överskridits. Var är min beställning?",
+            "text": "<p><br/>I 99% av fallen levereras beställningarna inom den förväntade leveranstiden.<br/><br/>Tyvärr kan en beställning bli försenad i leveransprocessen.<br/><br/>Du<br/> kan begära status via e-post från vår kundtjänst. Ange ditt ordernummer<br/> och skicka e-postmeddelandet från samma e-postadress som du lade ordern<br/> på.<br/><br/>Innan du vill öppna en tvist i din Klarna-portal, vänligen kontakta <strong>info@trevlig-borg.se </strong>med ämnet: <strong>DISPUTE</strong> och meddela oss vad som pågår.<br/><br/>Dessa<br/> e-postmeddelanden kommer att behandlas med högsta prioritet och kommer <br/>att lösa ditt problem snabbare än att öppna ett klagomål i <br/>Klarna-portalen!<br/><br/></p>"
           }
         },
         "question_QKB6Wm": {
           "type": "question",
           "settings": {
-            "title": "How can I track my order?",
-            "text": "<p>You can track your order by entering your Order Number or Email/Phone Number on the \"Track Your Order\" page. Once you’ve entered your information and clicked \"Track,\" you will be able to see the status of your order.</p>"
+            "title": "När kan jag förvänta mig min beställning?",
+            "text": "<p>Vi strävar efter att leverera din beställning så snabbt som möjligt. <br/>Vi samarbetar direkt med vår leverantör för att undvika onödiga <br/>kostnader för frakt, lagring och förpackning. På så sätt kan vi erbjuda <br/>dig produkter till ett bra pris.</p><p>Observera att leveransen kan ta <br/>lite längre tid vid hög efterfrågan eller under intensiva säsonger. Om <br/>du har frågor om din beställningsstatus, tveka inte att kontakta vår <br/>kundtjänst.</p>"
           }
         },
         "question_KUz4ya": {
           "type": "question",
           "settings": {
-            "title": "What payment methods do you accept?",
-            "text": "<p>You can pay safely and securely with the following payment methods: PayPal, Credit Card, Visa, Mastercard, American Express, Apple Pay, Google Pay, Maestro, and Shop Pay.</p>"
+            "title": "Är du inte nöjd med din beställning?",
+            "text": "<p>Är du inte nöjd med din beställning? Innan du öppnar en tvist i din Klarna-portal, vänligen kontakta <strong>info@trevlig-borg.se</strong> med ämnet: <strong>DISPUTE</strong> och meddela oss vad som pågår.<br/><br/>Dessa<br/> e-postmeddelanden kommer att behandlas med högsta prioritet och kommer <br/>att lösa ditt problem snabbare än att öppna ett klagomål i <br/>Klarna-portalen!</p>"
           }
         },
         "question_mneyAV": {
           "type": "question",
           "settings": {
-            "title": "Will I receive a confirmation email after placing an order?",
-            "text": "<p>Yes, once you've placed your order, a confirmation will be sent to your email inbox. If you don’t see it, feel free to reach out to our customer service team, we’re happy to help you right away.<br/><br/>Email:<a>Info@avery-rosewood.com</a></p>"
+            "title": "Var hittar jag min Track & Trace-kod?",
+            "text": "<p><br/>Du kan spåra ditt paket med ditt 4- eller 5-siffriga ordernummer (#xxxxx) och din e-postadress.<br/><br/>Klicka <a href=\"https://trevlig-borg.se/apps/orderstatus\" title=\"/apps/orderstatus\"><span style=\"text-decoration:underline\"><strong>här</strong></span></a> för att spåra din beställning</p>"
+          }
+        },
+        "question_HfAJhe": {
+          "type": "question",
+          "settings": {
+            "title": "Track & Trace-koden ger ingen information, hur är det möjligt?",
+            "text": "<p>Track & Trace-information är tillgänglig från det ögonblick då <br/>ditt paket anländer till speditören. Observera att förseningar kan <br/>uppstå och att det kan ta lite längre tid innan informationen <br/>vidarebefordras till din beställning.</p>"
           }
         }
       },
@@ -321,10 +328,11 @@
         "question_AR9VBG",
         "question_QKB6Wm",
         "question_KUz4ya",
-        "question_mneyAV"
+        "question_mneyAV",
+        "question_HfAJhe"
       ],
       "settings": {
-        "title": "Frequently Asked Questions"
+        "title": "Vanliga frågor och svar"
       }
     },
     "map_fW7nh9": {
