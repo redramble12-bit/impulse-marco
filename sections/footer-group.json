@@ -83,33 +83,24 @@
           "type": "newsletter",
           "settings": {
             "show_footer_title": true,
-            "title": "JOIN THE CLUB",
-            "text": "<p>Sign up and find out right away if you've won $100 in shopping credit!</p>",
-            "container_width": 34
-          }
-        },
-        "custom_nTG8dx": {
-          "type": "custom",
-          "settings": {
-            "show_footer_title": true,
-            "title": "Business hours",
-            "text": "<p>Mon-Fri: 9:00 AM - 6:00 PM</p><p>Sat-Sun: 12:00 PM - 5:00 PM</p><p><strong>📩info@avery-rosewood.com</strong></p>",
-            "container_width": 30
-          }
-        },
-        "menu_APzbxd": {
-          "type": "menu",
-          "settings": {
-            "show_footer_title": true,
-            "menu": "informations-1",
-            "container_width": 24
+            "title": "Kundtjänst",
+            "text": "<p>Har du en fråga? Vänligen kontakta vår kundtjänst.<br/><br/>Måndag - Fredag: 09:00 - 20:00<br/>Lördag - Söndag: 09:00 - 16:00<br/><br/>📧<strong>info@trevlig-borg.se</strong></p>",
+            "container_width": 58
           }
         },
         "menu_G8r94G": {
           "type": "menu",
           "settings": {
             "show_footer_title": true,
-            "menu": "customer-account-main-menu",
+            "menu": "generell-informasjon",
+            "container_width": 24
+          }
+        },
+        "menu_APzbxd": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "",
             "container_width": 24
           }
         }
@@ -117,9 +108,8 @@
       "block_order": [
         "footer-0",
         "newsletter_VhgAaG",
-        "custom_nTG8dx",
-        "menu_APzbxd",
-        "menu_G8r94G"
+        "menu_G8r94G",
+        "menu_APzbxd"
       ],
       "settings": {
         "show_locale_selector": true,
