@@ -25,7 +25,7 @@
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/ChatGPT_Image_Nov_6_2025_12_42_09_PM.png",
+            "image": "shopify://shop_images/couple-together-christmas-street_5e4d575c-1709-439c-9b0b-889cdb7c50fe.webp",
             "parallax_direction": "left",
             "overlay_opacity": 40
           }
@@ -340,7 +340,6 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/ChatGPT_Image_Nov_6_2025_12_42_09_PM.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
