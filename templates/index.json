@@ -74,7 +74,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "DENIM COLLECTION",
-        "home_featured_products": "",
+        "home_featured_products": "denim-collection",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
