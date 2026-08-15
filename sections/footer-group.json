@@ -79,21 +79,30 @@
             "container_width": 95
           }
         },
-        "newsletter_VhgAaG": {
-          "type": "newsletter",
+        "custom_cVzTwF": {
+          "type": "custom",
           "settings": {
             "show_footer_title": true,
-            "title": "Kundtjänst",
-            "text": "<p>Har du en fråga? Vänligen kontakta vår kundtjänst.<br/><br/>Måndag - Fredag: 09:00 - 20:00<br/>Lördag - Söndag: 09:00 - 16:00<br/><br/>📧<strong>info@trevlig-borg.se</strong></p>",
-            "container_width": 56
+            "title": "customer service",
+            "text": "<p>Need help or advice? Reach out to us<br/><br/>Customer Service Email: <a><strong>info@wendyswaihibeach.com</strong></a></p>",
+            "container_width": 50
           }
         },
         "menu_G8r94G": {
           "type": "menu",
           "settings": {
             "show_footer_title": true,
-            "menu": "generell-informasjon",
-            "container_width": 24
+            "menu": "",
+            "container_width": 50
+          }
+        },
+        "newsletter_VhgAaG": {
+          "type": "newsletter",
+          "settings": {
+            "show_footer_title": true,
+            "title": "WIN CA$250 STORE CREDIT",
+            "text": "<p><strong>How it works</strong></p><ol><li>Place your order this month<br/></li><li>Enter your email address below<br/></li><li>You’ll automatically be entered to win a CA<strong>$250 gift card</strong> valid on all collections</li></ol>",
+            "container_width": 56
           }
         },
         "menu_APzbxd": {
@@ -107,8 +116,9 @@
       },
       "block_order": [
         "footer-0",
-        "newsletter_VhgAaG",
+        "custom_cVzTwF",
         "menu_G8r94G",
+        "newsletter_VhgAaG",
         "menu_APzbxd"
       ],
       "settings": {
