@@ -210,7 +210,7 @@
 
                       {%- if current_variant.compare_at_price > current_variant.price -%}
   <span data-product-price-wrap class="product__price-wrap">
-<span data-compare-price class="product__price product__price--compare" style="color:#e02b2b !important; text-decoration: line-through; margin-right: 8px;">
+<span data-compare-price class="product__price product__price--compare" style="color:#e02b2b !important; text-decoration: line-through; margin-right: 15px;">
       {{ current_variant.compare_at_price | money_with_currency }}
     </span>
 {%- endif -%}
