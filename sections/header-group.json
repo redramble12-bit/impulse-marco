@@ -50,67 +50,6 @@
         "announcement_compact": true
       }
     },
-    "ss_announcement_bar_slider_3ptbVq": {
-      "type": "ss-announcement-bar-slider",
-      "blocks": {
-        "slide_Tx8cBV": {
-          "type": "slide",
-          "settings": {
-            "text": "<p>NOUS FERMONS - JUSQU'À 80% DE RÉDUCTION</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_Tx8cBV"
-      ],
-      "disabled": true,
-      "name": "SS - Announcement Bar Slider",
-      "settings": {
-        "insert_css_class_target": ".header, .pageheader, .section-header, #announcement, .toolbar, .header__wrapper, .onboarding-header",
-        "slider_view": 1,
-        "slider_view_mobile": 1,
-        "slider_gap": 0,
-        "slider_gap_mobile": 0,
-        "autoplay": false,
-        "autoplay_sec": 5,
-        "slide_border_thickness": 1,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 16,
-        "text_size_mobile": 14,
-        "text_height": 130,
-        "icon_size": 50,
-        "icon_size_mobile": 50,
-        "icon_margin_right": 10,
-        "arrow_size": 50,
-        "arrow_size_mobile": 36,
-        "arrow_icon_size": 16,
-        "arrow_icon_size_mobile": 14,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": false,
-        "arrow_show_mobile": false,
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "",
-        "arrow_bg_hover_color": "",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "slide_border_color": "#000000",
-        "text_color": "#ffffff",
-        "background_color": "#0f0f0f",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 8,
-        "padding_bottom": 4,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0
-      }
-    },
     "sp_custom_html_ggHDKG": {
       "type": "sp-custom-html",
       "custom_css": [],
@@ -244,7 +183,6 @@
   },
   "order": [
     "announcement",
-    "ss_announcement_bar_slider_3ptbVq",
     "sp_custom_html_ggHDKG",
     "header",
     "selluxe_collection_list_nY3YaA",
