@@ -87,7 +87,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "JUMPSUITS",
-        "home_featured_products": "",
+        "home_featured_products": "jumpsuits",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
@@ -108,7 +108,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "HANDCRAFTED BLOUSES",
-        "home_featured_products": "",
+        "home_featured_products": "handcrafted-blouses",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
@@ -121,7 +121,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "ARTISTIC BLOUSES",
-        "home_featured_products": "",
+        "home_featured_products": "colourful-blouses",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
@@ -134,7 +134,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "WAIHI BEACH BAGS",
-        "home_featured_products": "",
+        "home_featured_products": "waihi-beach-bags",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
@@ -144,10 +144,11 @@
     },
     "featured_collection_BK7QVU": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "COLORFUL BLOUSES",
-        "home_featured_products": "",
+        "home_featured_products": "colourful-blouses",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
@@ -160,7 +161,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "COASTAL SWIMWEAR",
-        "home_featured_products": "",
+        "home_featured_products": "swimwear",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
@@ -173,7 +174,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "BOHO DRESSES",
-        "home_featured_products": "",
+        "home_featured_products": "boho-dresses",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,

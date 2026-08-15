@@ -59,10 +59,9 @@ Arguments
         </div>
       {%- endunless -%}
 {%- if on_sale and product.available and product.compare_at_price > product.price -%}
-  {% assign discount = product.compare_at_price | minus: product.price %}
-  {% assign percentage = discount | times: 100 | divided_by: product.compare_at_price %}
   <div class="grid-product__tag grid-product__tag--sale">
-    Sale {{ percentage | round }}
+    Sale
+  </div>
   </div>
 {%- endif -%}
     {%- endif -%}
