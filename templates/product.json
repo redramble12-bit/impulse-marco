@@ -308,6 +308,57 @@
         "lazyload_images": true
       }
     },
+    "faq_PxgGRy": {
+      "type": "faq",
+      "blocks": {
+        "question_Vnmadh": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer free shipping?",
+            "text": "<p>Yes only today we offer free shipping to Canada on all orders. No hidden fees, no surprises at checkout. You'll see the full breakdown before you pay.</p>"
+          }
+        },
+        "question_6tYD4F": {
+          "type": "question",
+          "settings": {
+            "title": "How can I make sure it will fit me properly?",
+            "text": "<p>Each product page includes a detailed size chart to help you find your perfect fit. We always recommend comparing the chart to a similar item you already own.</p><p>If you’re in between sizes, we generally recommend sizing up for the most comfortable fit. Still unsure? Our support team is happy to help you choose the right size!</p>"
+          }
+        },
+        "question_bGFTkM": {
+          "type": "question",
+          "settings": {
+            "title": "How long does shipping take?",
+            "text": "<p>Orders are typically processed within <strong>2 business days </strong>after being placed.</p>"
+          }
+        },
+        "question_QaTWX3": {
+          "type": "question",
+          "settings": {
+            "title": "How do I track my orders?",
+            "text": "<p>Once your order is confirmed, you will receive an email with your order number. To track your order, simply visit our order tracking page and enter your order number or email address.</p>"
+          }
+        },
+        "question_kp6n3E": {
+          "type": "question",
+          "settings": {
+            "title": "I Have an Issue With My Order. How Can I Contact You?",
+            "text": "<p>If you experience any issues or have questions, visit our contact page to connect with our support team. We’re here to assist you promptly.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_Vnmadh",
+        "question_6tYD4F",
+        "question_bGFTkM",
+        "question_QaTWX3",
+        "question_kp6n3E"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "title": "FAQs"
+      }
+    },
     "testimonials_T9CHat": {
       "type": "testimonials",
       "blocks": {
@@ -909,6 +960,7 @@
     "sp_custom_html_94TTxn",
     "sp_custom_html_f98QHU",
     "text_and_image_GaYCVx",
+    "faq_PxgGRy",
     "testimonials_T9CHat",
     "featured_collection_CHWc8f",
     "sub",
