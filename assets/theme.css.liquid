@@ -13441,7 +13441,18 @@ html[dir=rtl] .product-single__meta .rte{
   }
   .product__price,
 .price__regular .price-item {
-  color: #8CA3B0;
+  color: #8CA3B00;
+
+  /* Strikethrough original price → red */
+.price__compare .price-item,
+.price-item--regular {
+  color: #e02b2b;
+}
+
+/* Current sale price → blue */
+.price__sale .price-item--sale {
+  color: #2b57e0;
+}
 }
 }
 
