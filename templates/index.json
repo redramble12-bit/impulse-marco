@@ -23,7 +23,7 @@
             "link_text": "SHOP NOW",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#8CA3B0",
+            "color_accent": "#8ca3b0",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/My_final_collection._Your_chance_to_own_a_piece_of_nine_years._1920_x_700_px_-8_1.webp",
             "parallax_direction": "left",
@@ -48,328 +48,30 @@
         "lazyload_images": true
       }
     },
-    "sp_custom_html_gGDMPt": {
-      "type": "sp-custom-html",
-      "disabled": true,
-      "name": "🚀SP - Custom HTML",
-      "settings": {
-        "title": "",
-        "custom_html": "<div id=\"shopify-section-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\" class=\"shopify-section\">\n<style>\n  @font-face {\n  font-family: Montserrat;\n  font-weight: 400;\n  font-style: normal;\n  font-display: swap;\n  src: url(\"//lena-boutique.de/cdn/fonts/montserrat/montserrat_n4.81949fa0ac9fd2021e16436151e8eaa539321637.woff2?h1=bWNrZ3kwLXBkLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bGVuYS1ib3V0aXF1ZS5kZQ&hmac=a93ce1f6aa9e325012f241ea1904c398db80db64901f19c7616d5703435d74b0\") format(\"woff2\"),\n       url(\"//lena-boutique.de/cdn/fonts/montserrat/montserrat_n4.a6c632ca7b62da89c3594789ba828388aac693fe.woff?h1=bWNrZ3kwLXBkLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=bGVuYS1ib3V0aXF1ZS5kZQ&hmac=013171f44078aaa4308b9e99a4ffab262d5591ae262b833aec70ca5a2babec70\") format(\"woff\");\n}\n\n\n  .ss-announcement-bar,\n  .ss-announcement-bar__message {\n    overflow: hidden;\n  }\n  .ss-announcement-bar:hover {\n    opacity:0.90;\n  }\n  .announcement-bar__link {\n    display: block;\n    width: 100%;\n    padding: 1.5rem 2rem;\n    text-decoration: none;\n    color: var(--text-color);\n    line-height:0;\n  }\n  .announcement-bar__link:hover {\n    color: var(--text-color);\n  }\n  #marq {\n    width: 100%;\n    border: inset;\n    overflow: hidden;\n    white-space: nowrap;\n    box-shadow: unset;\n    border: 0;\n    box-shadow: unset;\n    border-color: currentcolor;\n    vertical-align: middle;\n  }\n  \n  @keyframes marquesina-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG {\n    from {\n      transform: translateX(-50%);\n    }\n    to {\n      transform: translateX(0%);\n    }\n  }\n  @keyframes marquesina-reverse-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG {\n    from {\n      transform: translateX(0%);\n    }\n    to {\n      transform: translateX(50%);\n    }\n  }\n  \n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig {\n    display: inline-block;\n    overflow: hidden;\n    transform: translate(0);\n  }\n\n  .ss-announcement-bar__message {\n    text-align: center;\n    padding: 0;\n    margin: 0;\n    line-height: 1;\n    font-size: 12px;\n    font-family: Montserrat;\n    font-weight: 400;\n  }\n  #orig.reverse .announcement-bar__message {\n    display: flex;\n    flex-direction: row-reverse;\n  }\n  .ss-announcement-bar__message li {\n\n    line-height: 1;\n    font-size: 12px;\n    font-family: Montserrat;\n    font-weight: 400;\n    display: inline-block;\n    padding-right: 114px;\n    position: relative;\n\n  }\n  .ss-announcement-bar__message li::after {\n    content: '';\n    width: 3.5px;\n    height: 3.5px;\n    background-color: var(--text-color);\n    background-image: none;\n    opacity: 0.3;\n    border-radius: 50%;\n    position: absolute;\n    top: 40%;\n    right: 50px;\n  }\n  @media (max-width: 480px) {\n    #marq {\n      max-height: 39px;\n    }\n    .ss-announcement-bar__message li {\n      padding-right: 55px;\n    }\n    .ss-announcement-bar__message li::after {\n      right: 25px;\n    }\n  }\n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig {\n    animation: marquesina-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG var(--animation-duration, 45s) infinite normal linear 1s;\n  }\n\n  .ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG #orig.reverse {\n    animation: marquesina-reverse-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG var(--animation-duration, 45s) infinite normal linear 2s;\n  }\n</style>\n\n\n\n<template id=\"marquee-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\">\n  \n</template>\n\n<div class=\"ss-announcement-bar ss-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\" aria-label=\"Announcement\" style=\"background-color: #AC8469; --text-color: #000000; --animation-duration: 80s;\">\n    <div class=\"announcement-bar__link\">\n      <div class=\"\" id=\"marq\">\n        <span id=\"orig\">\n          <ul class=\"ss-announcement-bar__message\">\n            \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE/li>\n                \n                  </li>\n<li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 % /li>\n                \n              \n                \n                  </li>\n<li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 % </li>\n                \n              \n                \n                  \n<li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n                \n                  <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li>\n                \n                  <li>THE SALE ENDS TODAY, WITH DISCOUNTS OF UP TO 80 %</li>\n                \n              \n\n              \n                <!-- <li>WITH HEAVY HEARTS, WE HAVE TO CLOSE</li> -->\n              \n            \n          </ul>\n        </span>\n      </div>\n    </div>\n  </div>\n<div id=\"marquee-local-target-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG\"></div>\n\n<script>\n  window.addEventListener('DOMContentLoaded', (event) => {\n    let cssTarget = '';\n    let productForm = cssTarget\n      ? document.querySelector(cssTarget)\n      : document.querySelector('#marquee-local-target-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG');\n\n    if (!productForm) return;\n\n    const templateContent = document.querySelector(\n      '#marquee-announcement-bar-template--25701997674880__ss_scrolling_announcement_bar_MdGVmG'\n    ).content;\n\n    productForm.insertAdjacentElement(\n      'beforebegin',\n      templateContent.firstElementChild\n    );\n\n    setTimeout(()=> {\n      var htmlElement = document.documentElement;\n\n      if (window.getComputedStyle(htmlElement).getPropertyValue('direction') === 'rtl') {\n          document.querySelector('#orig').classList.add('reverse');\n      }\n    }, 1000);\n  });\n</script>\n\n</div>"
-      }
-    },
-    "tab_slider_riLH3x": {
-      "type": "tab-slider",
+    "rich_text_UQEXFr": {
+      "type": "rich-text",
       "blocks": {
-        "collection_tab_yL9kYX": {
-          "type": "collection_tab",
+        "text_Hby3Ph": {
+          "type": "text",
           "settings": {
-            "collection": "loafers"
-          }
-        },
-        "collection_tab_UXTFbt": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "heels"
+            "enlarge_text": false,
+            "text": "<p>For twenty-five years I was a primary school teacher, and I loved every one of them. Every school holidays, my husband and I drove to Waihi Beach — and the moment those dunes came into view, something in me exhaled.</p><p>Eight years ago, after my last class, a small boutique came up for lease near that same beach. My husband Tom looked at me across the kitchen table and didn't say a word. He didn't have to.</p><p>I'd spent twenty-five years helping children discover confidence. Now I wanted to help women rediscover theirs. We moved, and that same year I opened the door of Wendy's Waihi Beach for the very first time.</p><p>Now I'm sixty-four, and it's time to close this chapter. Not because something went wrong. Because something went beautifully right — and I'm wise enough to know when a story has reached its ending.</p><p>This is my favourite sale. Every piece I ever chose for this boutique was chosen with one woman in mind — the real one, not the one on the hanger. That hasn't changed.</p><p>Everything must go, at the lowest prices I've ever offered.</p><p>Find something that makes you stop. Trust that feeling. I built this place around exactly that moment.</p><p>With love,<br/>Wendy Anderson<br/>Wendy's Waihi Beach ❤️</p>"
           }
         }
       },
       "block_order": [
-        "collection_tab_yL9kYX",
-        "collection_tab_UXTFbt"
+        "text_Hby3Ph"
       ],
-      "name": "Tabs Slider",
+      "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_view_all": true
-      }
-    },
-    "featured_collections_TGfnVJ": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_3NAmhz": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "BLOUSES",
-            "focal_point": "center center"
-          }
-        },
-        "collection_6LwpdW": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "DRESSES",
-            "focal_point": "center center"
-          }
-        },
-        "collection_TkcVQN": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "BOOTS",
-            "focal_point": "center center"
-          }
-        },
-        "collection_akTyP4": {
-          "type": "collection",
-          "settings": {
-            "collection": "dresses-bestsellers",
-            "title": "PANTS",
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "collection_3NAmhz",
-        "collection_6LwpdW",
-        "collection_TkcVQN",
-        "collection_akTyP4"
-      ],
-      "name": "t:sections.featured-collections.presets.collection_list.name",
-      "settings": {
-        "title": "",
-        "divider": true,
-        "per_row": 4,
-        "enable_gutter": true
-      }
-    },
-    "hero_video_nPwCgD": {
-      "type": "hero-video",
-      "disabled": true,
-      "settings": {
-        "title": "ON FERME\nTOUT À -70%",
-        "title_size": 80,
-        "subheading": "C’est votre dernière chance de shopper nos pièces préférées.",
-        "link_text": "Derniers articles – Achetez maintenant",
-        "link": "shopify://collections/meilleures-ventes",
-        "color_accent": "#51b786",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/cc589e2eb4a04429a90d4983a022efd1.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
-    "sp_custom_html_8J4AMK": {
-      "type": "sp-custom-html",
-      "disabled": true,
-      "name": "🚀SP - Custom HTML",
-      "settings": {
-        "title": "",
-        "custom_html": "<div id=\"shopify-section-template--25090185527634__banner-prices\" class=\"shopify-section\">\n  <div class=\"banner-prices\" style=\"background-color: #121212; padding: 7px 11px;\">\n    <div class=\"banner-content\">\n      <p class=\"banner-text\" style=\"color: #ffffff; font-size: 16px;\">\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-15%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">2</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-20%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">3</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-25%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">4</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-35%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">5</span>\n          articles\n        </span><span class=\"separator\">|</span>\n        <span class=\"banner-segment\">\n          <span class=\"percentage\" style=\"font-weight: 700;\">-45%</span>\n          de réduction pour\n          <span class=\"items-count\" style=\"font-weight: 700;\">10+</span>\n          articles\n        </span>\n      </p>\n      <p class=\"automatic-text\" style=\"color: #ffffff;\">\n        La réduction est appliquée automatiquement dans votre panier!\n      </p>\n    </div>\n  </div>\n\n  <style>\n    .banner-prices {\n      text-align: center;\n      width: 100%;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n    }\n    \n    .banner-text {\n      margin: 0;\n      line-height: 1.5;\n    }\n    \n    .banner-segment {\n      display: inline-block;\n      padding: 4px 0;\n    }\n    \n    .separator {\n      margin: 0 15px;\n      color: rgba(0, 0, 0, 0.3);\n    }\n\n    @media screen and (max-width: 749px) {\n      .banner-text {\n        display: flex;\n        flex-direction: column;\n        gap: 8px;\n      }\n      \n      .banner-segment {\n        display: block;\n      }\n      \n      .separator {\n        display: none;\n      }\n    }\n\n    .banner-content {\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n      gap: 4px;\n    }\n\n    .automatic-text {\n      margin: 0;\n      font-size: 12px;\n      opacity: 0.8;\n    }\n  </style>\n</div>"
-      }
-    },
-    "sp_custom_html_GBijcz": {
-      "type": "sp-custom-html",
-      "disabled": true,
-      "name": "🚀SP - Custom HTML",
-      "settings": {
-        "title": "",
-        "custom_html": "<div id=\"shopify-section-template--23559008223560__u_collection_promo_nXXei9\" class=\"shopify-section\">\n  <style>\n    /* Outer section with grey background */\n    .ucollection-promo {\n      background: #f9f9f9;\n      padding: 30px 0;\n    }\n\n    /* Inner container for the promo content with white background */\n    .uc-promo-wrapper {\n      background: #ffffff;\n      color: #1c1d1d;\n      padding: 30px 20px;\n      text-align: center;\n      max-width: 1000px;\n      margin: 0 auto;\n      border-radius: 8px; /* Optional: adds rounded corners */\n    }\n\n    /* Main title styling */\n    .mainuc-promo-wrapper-middle {\n      font-size: 18px;\n      font-weight: bold;\n    }\n\n    /* Promo text styling */\n    .uc-promo-wrapper-middle {\n      display: flex;\n      flex-direction: column;\n      gap: 10px;\n      font-size: 16px;\n      line-height: 1.6;\n    }\n\n    .uc-promo-wrapper-middle span {\n      display: block;\n    }\n\n    /* Footer text styling */\n    .upromo-footer {\n      font-size: 14px;\n      font-style: italic;\n      color: #444;\n    }\n\n    /* Responsive behavior for larger screens */\n    @media screen and (min-width: 768px) {\n      .uc-promo-wrapper-middle {\n        flex-direction: row;\n        flex-wrap: wrap;\n        justify-content: center;\n        gap: 12px 20px;\n      }\n\n      .uc-promo-wrapper-middle span {\n        display: inline-block;\n      }\n    }\n  </style>\n\n  <section class=\"ucollection-promo\">\n    <div class=\"uc-promo-wrapper\">\n      <span class=\"mainuc-promo-wrapper-middle\">Achetez plus = Payez moins</span>\n\n      <div class=\"uc-promo-wrapper-middle\">\n        <span><strong>Après des années de travail acharné, nous n’avons plus le choix.</strong> Les factures ont gagné, et nous sommes contraints de tout vendre à des prix sacrifiés. En ce moment, tout notre stock est en <strong>liquidation finale</strong> avec des <strong>remises exceptionnelles allant jusqu’à 80 %.</strong></span>\n        <span><strong>-15 % de réduction</strong> dès 2 articles achetés</span>\n        <span><strong>-20 % de réduction</strong> dès 3 articles achetés</span>\n        <span><strong>-25 % de réduction</strong> dès 4 articles achetés</span>\n        <span><strong>-35 % de réduction</strong> dès 5 articles achetés</span>\n      </div>\n\n      <span class=\"upromo-footer\"><strong>Les remises sont appliquées automatiquement lors du passage en caisse.</strong></span>\n    </div>\n  </section>\n</div>"
-      }
-    },
-    "sp_custom_html_MPPD79": {
-      "type": "sp-custom-html",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "custom_html": "<img src=\"https://cdn.shopify.com/s/files/1/0944/8780/6217/files/Amore_mio_16.png?v=1748387044\" alt=\"Amore Mio Image\">"
-      }
-    },
-    "featured_collections_7q6hNt": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_7FQFcH": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "BAGS",
-            "focal_point": "center center"
-          }
-        },
-        "collection_Az7pnY": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "COATS",
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "collection_7FQFcH",
-        "collection_Az7pnY"
-      ],
-      "name": "t:sections.featured-collections.presets.collection_list.name",
-      "settings": {
-        "title": "",
-        "divider": true,
-        "per_row": 2,
-        "enable_gutter": true
-      }
-    },
-    "text_and_image_wfQpQU": {
-      "type": "text-and-image",
-      "name": "t:sections.text-and-image.presets.image_with_text.name",
-      "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "the maison",
-        "text": "<p>På THE MAISON strävar vi efter överkomliga priser <br/>för våra kunder, så att du kan njuta av våra produkter utan att betala <br/>för mycket. </p><p>Sedan 2005 har vi funnits och vi arbetar alltid för <br/>att erbjuda kvalitet och bra service. Som du kan förvänta dig av oss <br/>står vi för fraktkostnaderna och din beställning levereras hem till dig <br/>utan extra kostnader.</p><p>Vill du returnera din beställning? Det går också smidigt och utan bekymmer hos oss!</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "17641652572ed37377": {
-      "type": "_blocks",
-      "settings": {}
-    },
-    "sp_custom_html_AenHfE": {
-      "type": "sp-custom-html",
-      "disabled": true,
-      "name": "🚀SP - Custom HTML",
-      "settings": {
-        "title": "",
-        "custom_html": "<div class=\"testimonials-section testimonials-template--16986402291777__testimonials_Hxt8ki text-center aos-init aos-animate\" data-section-id=\"template--16986402291777__testimonials_Hxt8ki\" data-section-type=\"testimonials\" data-aos=\"\">\n<div class=\"page-width\">\n      <div class=\"section-header\">\n        <h2>Here's what our customers say</h2>\n      </div>\n    </div>\n<div class=\"socialprooftesti social-proof\">\n    <!-- Tekst na de sterren -->\n  <span class=\"review-text\">Excellent <span class=\"ratingtest\">4.7</span> / 5 </span>\n  <!-- Volledig gevulde sterren -->\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  <span class=\"star\">★</span>\n  \n  <!-- Gedeeltelijk gevulde ster -->\n  <span class=\"half-star\"></span>\n\n  \n</div>  \n\n  <p class=\"morettest\">More than 3728+ reviews</p>\n<div class=\"slideshow-wrapper\">\n      <div class=\"testimonials-slider flickity-enabled is-draggable\" id=\"Testimonials-template--16986402291777__testimonials_Hxt8ki\" data-dots=\"true\" data-count=\"5\" tabindex=\"0\">\n<div class=\"flickity-viewport\" style=\"height: 346.177px; touch-action: pan-y;\"><div class=\"flickity-slider\" style=\"left: 0px; transform: translateX(0.5%);\">\n<div class=\"testimonials-slide testimonials-slide--testimonial_Cb4Prm aos-init aos-animate\" data-index=\"0\" data-aos=\"row-of-5\" style=\"position: absolute; left: 0px; transform: translateX(0%);\" aria-hidden=\"true\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Perfect fit</cite><div class=\"rte-setting text-spacing\"><p>The clothing fits perfectly and is very comfortable. Thanks to the accurate size chart, choosing the right size was easy. I will definitely order again!</p></div>\n<div class=\"testimonials__info\">Anna H.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_hrwNn6 aos-init aos-animate is-selected\" data-index=\"1\" data-aos=\"row-of-5\" style=\"position: absolute; left: 0px; transform: translateX(100%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Excellent customer service!</cite><div class=\"rte-setting text-spacing\"><p>The customer service was fast and friendly. Delivery was quick, and the products are of top quality. Highly recommend!</p></div>\n<div class=\"testimonials__info\">Mary Q.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_qdPckg aos-init aos-animate\" data-index=\"2\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(200%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Attention to detail</cite><div class=\"rte-setting text-spacing\"><p>The beautiful packaging and high-quality materials impressed me. You can really feel the attention to detail. Great experience!</p></div>\n<div class=\"testimonials__info\">Nina B.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_UzxGeN aos-init aos-animate\" data-index=\"3\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(300%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Excellent value for the money</cite><div class=\"rte-setting text-spacing\"><p>High quality products at fair prices. I'm glad I found this site and will definitely order again soon.</p></div>\n<div class=\"testimonials__info\">Ariana G.</div>\n</blockquote>\n          </div>\n<div class=\"testimonials-slide testimonials-slide--testimonial_CrjjmM aos-init aos-animate\" data-index=\"4\" data-aos=\"row-of-5\" aria-hidden=\"true\" style=\"position: absolute; left: 0px; transform: translateX(-100%);\">\n            <blockquote class=\"testimonials-slider__text\">\n<span class=\"testimonial-stars\">★★★★★</span><cite>Easy and quick ordering</cite><div class=\"rte-setting text-spacing\"><p>User friendly website, easy ordering, and fast delivery. Products as described. Will gladly order again!</p></div>\n<div class=\"testimonials__info\">Sophie M.</div>\n</blockquote>\n          </div>\n</div></div>\n<ol class=\"flickity-page-dots\">\n<li class=\"dot\" aria-label=\"Page dot 1\">\n</li>\n<li class=\"dot is-selected\" aria-label=\"Page dot 2\" aria-current=\"step\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 3\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 4\">\n</li>\n<li class=\"dot\" aria-label=\"Page dot 5\">\n</li>\n</ol>\n</div>\n    </div>\n</div>"
-      }
-    },
-    "tab_slider_XqzGNa": {
-      "type": "tab-slider",
-      "blocks": {
-        "collection_tab_gaAhay": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "heels"
-          }
-        }
-      },
-      "block_order": [
-        "collection_tab_gaAhay"
-      ],
-      "name": "Tabs Slider",
-      "settings": {
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_view_all": true
-      }
-    },
-    "tab_slider_nBt63Q": {
-      "type": "tab-slider",
-      "blocks": {
-        "collection_tab_hh8BqN": {
-          "type": "collection_tab",
-          "settings": {
-            "collection": "heels"
-          }
-        }
-      },
-      "block_order": [
-        "collection_tab_hh8BqN"
-      ],
-      "name": "Tabs Slider",
-      "settings": {
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "show_view_all": true
-      }
-    },
-    "faq_Vx4YPp": {
-      "type": "faq",
-      "blocks": {
-        "question_EEf7NY": {
-          "type": "question",
-          "settings": {
-            "title": "Hur kan jag returnera min beställning?",
-            "text": "<p><br/>Är du nöjd med din beställning? Innan du öppnar en tvist i din Klarna-portal kan du kontakta <strong>info@trevlig-borg.se</strong><br/><br/>Ange <strong>DISPUTE</strong> i ämnesraden och låt oss veta vad som händer.<br/><br/>Dessa e-postmeddelanden behandlas med högsta prioritet och kommer att <br/>lösa ditt problem snabbare än om du öppnar ett klagomål i <br/>Klarna-portalen!</p>"
-          }
-        },
-        "question_AR9VBG": {
-          "type": "question",
-          "settings": {
-            "title": "Den förväntade leveranstiden har överskridits. Var är min beställning?",
-            "text": "<p><br/>I 99% av fallen levereras beställningarna inom den förväntade leveranstiden.<br/><br/>Tyvärr kan en beställning bli försenad i leveransprocessen.<br/><br/>Du<br/> kan begära status via e-post från vår kundtjänst. Ange ditt ordernummer<br/> och skicka e-postmeddelandet från samma e-postadress som du lade ordern<br/> på.<br/><br/>Innan du vill öppna en tvist i din Klarna-portal, vänligen kontakta <strong>info@trevlig-borg.se </strong>med ämnet: <strong>DISPUTE</strong> och meddela oss vad som pågår.<br/><br/>Dessa<br/> e-postmeddelanden kommer att behandlas med högsta prioritet och kommer <br/>att lösa ditt problem snabbare än att öppna ett klagomål i <br/>Klarna-portalen!<br/><br/></p>"
-          }
-        },
-        "question_QKB6Wm": {
-          "type": "question",
-          "settings": {
-            "title": "När kan jag förvänta mig min beställning?",
-            "text": "<p>Vi strävar efter att leverera din beställning så snabbt som möjligt. <br/>Vi samarbetar direkt med vår leverantör för att undvika onödiga <br/>kostnader för frakt, lagring och förpackning. På så sätt kan vi erbjuda <br/>dig produkter till ett bra pris.</p><p>Observera att leveransen kan ta <br/>lite längre tid vid hög efterfrågan eller under intensiva säsonger. Om <br/>du har frågor om din beställningsstatus, tveka inte att kontakta vår <br/>kundtjänst.</p>"
-          }
-        },
-        "question_KUz4ya": {
-          "type": "question",
-          "settings": {
-            "title": "Är du inte nöjd med din beställning?",
-            "text": "<p>Är du inte nöjd med din beställning? Innan du öppnar en tvist i din Klarna-portal, vänligen kontakta <strong>info@trevlig-borg.se</strong> med ämnet: <strong>DISPUTE</strong> och meddela oss vad som pågår.<br/><br/>Dessa<br/> e-postmeddelanden kommer att behandlas med högsta prioritet och kommer <br/>att lösa ditt problem snabbare än att öppna ett klagomål i <br/>Klarna-portalen!</p>"
-          }
-        },
-        "question_mneyAV": {
-          "type": "question",
-          "settings": {
-            "title": "Var hittar jag min Track & Trace-kod?",
-            "text": "<p><br/>Du kan spåra ditt paket med ditt 4- eller 5-siffriga ordernummer (#xxxxx) och din e-postadress.<br/><br/>Klicka <a href=\"https://trevlig-borg.se/apps/orderstatus\" title=\"/apps/orderstatus\"><span style=\"text-decoration:underline\"><strong>här</strong></span></a> för att spåra din beställning</p>"
-          }
-        },
-        "question_HfAJhe": {
-          "type": "question",
-          "settings": {
-            "title": "Track & Trace-koden ger ingen information, hur är det möjligt?",
-            "text": "<p>Track & Trace-information är tillgänglig från det ögonblick då <br/>ditt paket anländer till speditören. Observera att förseningar kan <br/>uppstå och att det kan ta lite längre tid innan informationen <br/>vidarebefordras till din beställning.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_EEf7NY",
-        "question_AR9VBG",
-        "question_QKB6Wm",
-        "question_KUz4ya",
-        "question_mneyAV",
-        "question_HfAJhe"
-      ],
-      "settings": {
-        "title": "Vanliga frågor och svar"
-      }
-    },
-    "map_fW7nh9": {
-      "type": "map",
-      "disabled": true,
-      "settings": {
-        "map_title": "VISITEZ NOTRE SHOWROOM",
-        "address": "<p><em>Lundi - Vendredi : 10:00 - 20:00</em></p><p><em>Samedi : 10:00 - 20:00</em></p><p><em>Dimanche : 10:00 - 20:00</em></p>",
-        "map_address": "",
-        "api_key": "",
-        "show_button": false,
-        "lazyload_images": true
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
       }
     }
   },
   "order": [
     "slideshow_K7BMe3",
-    "sp_custom_html_gGDMPt",
-    "tab_slider_riLH3x",
-    "featured_collections_TGfnVJ",
-    "hero_video_nPwCgD",
-    "sp_custom_html_8J4AMK",
-    "sp_custom_html_GBijcz",
-    "sp_custom_html_MPPD79",
-    "featured_collections_7q6hNt",
-    "text_and_image_wfQpQU",
-    "17641652572ed37377",
-    "sp_custom_html_AenHfE",
-    "tab_slider_XqzGNa",
-    "tab_slider_nBt63Q",
-    "faq_Vx4YPp",
-    "map_fW7nh9"
+    "rich_text_UQEXFr"
   ]
 }
