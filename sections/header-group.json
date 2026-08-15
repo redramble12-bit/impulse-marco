@@ -11,13 +11,43 @@
   "type": "header",
   "name": "t:sections.header-group.name",
   "sections": {
-    "sp_custom_html_ggHDKG": {
-      "type": "sp-custom-html",
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "announcement_xaGkmn": {
+          "type": "announcement",
+          "settings": {
+            "text": "",
+            "link_text": "30-DAY MONEY-BACK GUARANTEE",
+            "link": ""
+          }
+        },
+        "announcement_aFBJ9a": {
+          "type": "announcement",
+          "settings": {
+            "text": "",
+            "link_text": "THE SALE ENDS TONIGHT",
+            "link": ""
+          }
+        },
+        "announcement_VzRJtC": {
+          "type": "announcement",
+          "settings": {
+            "text": "",
+            "link_text": "FREE SHIPPING ACROSS CANADA",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_xaGkmn",
+        "announcement_aFBJ9a",
+        "announcement_VzRJtC"
+      ],
+      "disabled": true,
       "custom_css": [],
-      "name": "🚀SP - Custom HTML",
       "settings": {
-        "title": "",
-        "custom_html": "<section id=\"shopify-section-sections--23559009763656__timer_bar_XKHxad\" class=\"shopify-section shopify-section-group-header-group timer\"><style>\n  .timer-bar {\n    background-color: #000000;\n    color: white;\n    font-size: 13px;\n    font-weight: bold;\n    text-align: center;\n    padding: 10px 0;\n  }\n\n  #timer {\n    color: #f9e4e4;\n    margin-right: 10px;\n  }\n</style>\n\n<div class=\"timer-bar timer-bar-sections--23559009763656__timer_bar_XKHxad\">\n  EARLY BLACK FRIDAY SALE SLUTAR IDAG — PRISERNA ÄR REDAN SÄNKTA!<span></span>\n\n</div>\n\n<script>\n  function startCountdown(endTime) {\n    function updateTimer() {\n      const now = new Date().getTime();\n      const timeLeft = endTime - now;\n\n      if (timeLeft <= 0) {\n        document.getElementById(\"timer\").textContent = \"00:00:00:00\";\n        clearInterval(interval);\n        return;\n      }\n\n      const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));\n      const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n      const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));\n      const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);\n\n      document.getElementById(\"timer\").textContent =\n        String(days).padStart(2, \"0\") + \":\" +\n        String(hours).padStart(2, \"0\") + \":\" +\n        String(minutes).padStart(2, \"0\") + \":\" +\n        String(seconds).padStart(2, \"0\");\n    }\n\n    const interval = setInterval(updateTimer, 1000);\n    updateTimer();\n  }\n\n  // Set a new end time of 16 hours if no valid timer exists in localStorage\n  let endTime = localStorage.getItem(\"countdownEndTime\");\n  const now = new Date().getTime();\n\n  if (!endTime || now > parseInt(endTime, 10)) {\n    endTime = now + 16 * 60 * 60 * 1000; // 16 hours from now\n    localStorage.setItem(\"countdownEndTime\", endTime);\n  } else {\n    endTime = parseInt(endTime, 10);\n  }\n\n  startCountdown(endTime);\n</script>\n\n\n<style> #shopify-section-sections--23559009763656__timer_bar_XKHxad #timer {font-size: 13px;} </style></section>"
+        "announcement_compact": true
       }
     },
     "ss_announcement_bar_slider_3ptbVq": {
@@ -81,6 +111,15 @@
         "border_thickness": 0
       }
     },
+    "sp_custom_html_ggHDKG": {
+      "type": "sp-custom-html",
+      "custom_css": [],
+      "name": "🚀SP - Custom HTML",
+      "settings": {
+        "title": "",
+        "custom_html": "<div id=\"shopify-section-sections--28491599806790__announcement\" class=\"shopify-section shopify-section-group-header-group\">\n<style>:root { \n    --announcement-letter-spacing: 0.2em;\n    --announcement-font-size: 12px;   /* ⬅️ vergroot hier */\n    --announcement-font-weight: 700; /* ⬅️ 400 = normaal | 600 = semi-bold | 700 = bold */\n  }\n\n  .announcement-bar,\n  .announcement-bar p,\n  .announcement-bar span,\n  .announcement-bar a,\n  .announcement-bar strong,\n  .announcement-bar .announcement__text,\n  .announcement-bar .announcement__message,\n  .announcement-bar .announcement__link,\n  .announcement-bar [class*=\"announcement\"] {\n    letter-spacing: var(--announcement-letter-spacing) !important;\n    font-size: var(--announcement-font-size) !important;\n    font-weight: var(--announcement-font-weight) !important;\n  }\n</style>\n  <div class=\"announcement-bar\">\n    <div class=\"page-width\">\n      <div class=\"slideshow-wrapper\">\n        <button type=\"button\" class=\"visually-hidden slideshow__pause\" data-id=\"sections--28491599806790__announcement\" aria-live=\"polite\">\n          <span class=\"slideshow__pause-stop\">\n            <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-pause\" viewbox=\"0 0 10 13\"><path d=\"M0 0h3v13H0zm7 0h3v13H7z\" fill-rule=\"evenodd\"></path></svg>\n            <span class=\"icon__fallback-text\">Pause slideshow</span>\n          </span>\n          <span class=\"slideshow__pause-play\">\n            <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-play\" viewbox=\"18.24 17.35 24.52 28.3\"><path fill=\"#323232\" d=\"M22.1 19.151v25.5l20.4-13.489-20.4-12.011z\"></path></svg>\n            <span class=\"icon__fallback-text\">Play slideshow</span>\n          </span>\n        </button>\n\n        <div id=\"AnnouncementSlider\" class=\"announcement-slider flickity-enabled is-draggable\" data-compact=\"true\" data-block-count=\"3\" tabindex=\"0\"><div class=\"flickity-viewport\" style=\"height: 16.7969px; touch-action: pan-y;\"><div class=\"flickity-slider\" style=\"left: 0px; transform: translateX(-200%);\">\n<div id=\"AnnouncementSlide-announcement_rBAfFW\" class=\"announcement-slider__slide\" data-index=\"0\" style=\"position: absolute; left: 0px; transform: translateX(0%);\" aria-hidden=\"true\"><span class=\"announcement-link-text\">30-DAY MONEY-BACK GUARANTEE</span></div>\n<div id=\"AnnouncementSlide-announcement_mhRj78\" class=\"announcement-slider__slide\" data-index=\"1\" style=\"position: absolute; left: 0px; transform: translateX(100%);\" aria-hidden=\"true\"><span class=\"announcement-text\">THE SALE ENDS TONIGHT</span></div>\n<div id=\"AnnouncementSlide-announcement-1\" class=\"announcement-slider__slide is-selected\" data-index=\"2\" style=\"position: absolute; left: 0px; transform: translateX(200%);\"><span class=\"announcement-link-text\">FREE SHIPPING ACROSS CANADA</span></div>\n</div></div></div>\n      </div>\n    </div>\n  </div>\n\n\n\n</div>"
+      }
+    },
     "header": {
       "type": "header",
       "blocks": {
@@ -99,7 +138,7 @@
         "main_menu_link_list": "main-menu",
         "hover_menu": true,
         "mega_menu_images": true,
-        "main_menu_alignment": "center",
+        "main_menu_alignment": "center-split",
         "header_style": "normal",
         "sticky_index": false,
         "sticky_collection": false,
@@ -108,45 +147,6 @@
         "show_locale_selector": true,
         "show_currency_selector": true,
         "show_currency_flags": true
-      }
-    },
-    "announcement": {
-      "type": "announcement",
-      "blocks": {
-        "announcement_xaGkmn": {
-          "type": "announcement",
-          "settings": {
-            "text": "",
-            "link_text": "BUY 2, GET AN EXTRA 10% OFF",
-            "link": ""
-          }
-        },
-        "announcement_aFBJ9a": {
-          "type": "announcement",
-          "settings": {
-            "text": "",
-            "link_text": "BUY 3, GET AN EXTRA 15% OFF",
-            "link": ""
-          }
-        },
-        "announcement_VzRJtC": {
-          "type": "announcement",
-          "settings": {
-            "text": "",
-            "link_text": "BUY 4, GET AN EXTRA 20% OFF",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_xaGkmn",
-        "announcement_aFBJ9a",
-        "announcement_VzRJtC"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "announcement_compact": true
       }
     },
     "selluxe_collection_list_nY3YaA": {
@@ -243,10 +243,10 @@
     }
   },
   "order": [
-    "sp_custom_html_ggHDKG",
-    "ss_announcement_bar_slider_3ptbVq",
-    "header",
     "announcement",
+    "ss_announcement_bar_slider_3ptbVq",
+    "sp_custom_html_ggHDKG",
+    "header",
     "selluxe_collection_list_nY3YaA",
     "sp_count_down_banner_QChb4w",
     "countdown_MxBhMq"

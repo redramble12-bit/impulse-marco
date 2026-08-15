@@ -15,28 +15,31 @@
         "image_DG7hdH": {
           "type": "image",
           "settings": {
-            "top_subheading": "Sale ends today",
-            "title": "Shop anniversary sale",
-            "title_size": 62,
-            "subheading": "WHILE IT LASTS",
-            "link": "",
-            "link_text": "",
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "SALE ENDS TONIGHT",
+            "link": "shopify://collections",
+            "link_text": "SHOP NOW",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/couple-together-christmas-street_5e4d575c-1709-439c-9b0b-889cdb7c50fe.webp",
+            "color_accent": "#8CA3B0",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/My_final_collection._Your_chance_to_own_a_piece_of_nine_years._1920_x_700_px_-8_1.webp",
             "parallax_direction": "left",
-            "overlay_opacity": 40
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
         "image_DG7hdH"
       ],
+      "custom_css": [
+        "{font-size: 24px;}"
+      ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
-        "section_height": "100vh",
+        "section_height": "natural",
         "mobile_height": "400px",
         "parallax": false,
         "style": "bars",
@@ -210,7 +213,6 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/Warehouse_Efficiency_at_The_Maison_d3e60d2a-3a36-47e4-a66c-acf192f99585.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
