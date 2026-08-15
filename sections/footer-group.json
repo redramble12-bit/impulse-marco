@@ -92,7 +92,7 @@
           "type": "menu",
           "settings": {
             "show_footer_title": true,
-            "menu": "",
+            "menu": "footer",
             "container_width": 50
           }
         },
