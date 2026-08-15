@@ -44,14 +44,16 @@
         "announcement_aFBJ9a",
         "announcement_VzRJtC"
       ],
-      "disabled": true,
-      "custom_css": [],
+      "custom_css": [
+        "/* IMPULSE - Announcement Bar tekst */.announcement-bar .announcement-link-text,.announcement-bar .announcement-text,.announcement-bar .announcement__text,.announcement-bar .announcement__message,.announcement-bar a,.announcement-bar span {font-size: 12px !important; font-weight: 700 !important; letter-spacing: 0.2em !important;}"
+      ],
       "settings": {
         "announcement_compact": true
       }
     },
     "sp_custom_html_ggHDKG": {
       "type": "sp-custom-html",
+      "disabled": true,
       "custom_css": [],
       "name": "🚀SP - Custom HTML",
       "settings": {
