@@ -40,12 +40,12 @@
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
-        "mobile_height": "400px",
+        "mobile_height": "250px",
         "parallax": false,
         "style": "bars",
-        "autoplay": true,
+        "autoplay": false,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "rich_text_UQEXFr": {
