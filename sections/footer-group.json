@@ -84,7 +84,7 @@
           "settings": {
             "show_footer_title": true,
             "title": "customer service",
-            "text": "<p>Need help or advice? Reach out to us<br/><br/>Customer Service Email: <a><strong>info@wendyswaihibeach.com</strong></a></p>",
+            "text": "<p>Need help or advice? Reach out to us<br/><br/>Customer Service Email: <a href=\"mailto:info@margaretwasagabeach.com\" title=\"mailto:info@margaretwasagabeach.com\"><strong>info@margaretwasagabeach.com</strong></a></p>",
             "container_width": 50
           }
         },
