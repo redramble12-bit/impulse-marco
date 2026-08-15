@@ -215,8 +215,9 @@
     </span>
 {%- endif -%}
 
-<span {% if current_variant.compare_at_price > current_variant.price %}style="color: #2b57e0; font-weight: 700; font-size: 27px!important; padding-left: 12px;"{% else %}style="color: #D1A972; font-weight: 700; font-size: 27px!important;"{% endif %} data-product-price
-  class="product__price{% if current_variant.compare_at_price > current_variant.price %} on-sale{% endif %}">                        {%- unless product.empty? -%}
+<span {% if current_variant.compare_at_price > current_variant.price %}style="color: #8CA3B0; font-weight: 600; font-size: 23px!important;"{% else %}style="color: #D1A972; font-weight: 700; font-size: 27px!important;"{% endif %} data-product-price
+  class="product__price{% if current_variant.compare_at_price > current_variant.price %} on-sale{% endif %}">
+                        {%- unless product.empty? -%}
                           {{ current_variant.price | money_with_currency }}
                         {%- else -%}
                           {{ 1999 | money }}
