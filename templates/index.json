@@ -71,7 +71,10 @@
     },
     "featured_collection_qebfLB": {
       "type": "featured-collection",
-      "custom_css": [],
+      "custom_css": [
+        ".grid__item.text-center .btn{background:#fff!important;color:#111!important;border:1px solid #dedbd6!important;border-radius:0!important;box-shadow:none!important;font-family:Outfit,Arial,sans-serif!important;font-size:13px!important;font-weight:400!important;letter-spacing:.22em!important;line-height:1!important;padding:10px 18px!important;min-width:118px;}",
+        ".grid__item.text-center .btn:hover{background:#fff!important;color:#111!important;border-color:#111!important;}"
+      ],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "DENIM COLLECTION",
