@@ -72,8 +72,8 @@
     "featured_collection_qebfLB": {
       "type": "featured-collection",
       "custom_css": [
-        ".grid__item.text-center .btn{background:#fff!important;color:#111!important;border:1px solid #dedbd6!important;border-radius:0!important;box-shadow:none!important;font-family:Outfit,Arial,sans-serif!important;font-size:13px!important;font-weight:400!important;letter-spacing:.22em!important;line-height:1!important;padding:10px 18px!important;min-width:118px;}",
-        ".grid__item.text-center .btn:hover{background:#fff!important;color:#111!important;border-color:#111!important;}"
+        ".grid__item.text-center .btn {background: #fff !important; color: #111 !important; border: 1px solid #dedbd6 !important; border-radius: 0 !important; box-shadow: none !important; font-family: Outfit, Arial, sans-serif !important; font-size: 13px !important; font-weight: 400 !important; letter-spacing: 0.22em !important; line-height: 1 !important; padding: 10px 18px !important; min-width: 118px;}",
+        ".grid__item.text-center .btn:hover {background: #fff !important; color: #111 !important; border-color: #111 !important;}"
       ],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
@@ -88,6 +88,10 @@
     },
     "featured_collection_g89QWC": {
       "type": "featured-collection",
+      "custom_css": [
+        ".grid__item.text-center .btn {background: #fff !important; color: #111 !important; border: 1px solid #dedbd6 !important; border-radius: 0 !important; box-shadow: none !important; font-family: Outfit, Arial, sans-serif !important; font-size: 13px !important; font-weight: 400 !important; letter-spacing: 0.22em !important; line-height: 1 !important; padding: 10px 18px !important; min-width: 118px;}",
+        ".grid__item.text-center .btn:hover {background: #fff !important; color: #111 !important; border-color: #111 !important;}"
+      ],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "JUMPSUITS",
@@ -109,6 +113,10 @@
     },
     "featured_collection_H7ptGy": {
       "type": "featured-collection",
+      "custom_css": [
+        ".grid__item.text-center .btn {background: #fff !important; color: #111 !important; border: 1px solid #dedbd6 !important; border-radius: 0 !important; box-shadow: none !important; font-family: Outfit, Arial, sans-serif !important; font-size: 13px !important; font-weight: 400 !important; letter-spacing: 0.22em !important; line-height: 1 !important; padding: 10px 18px !important; min-width: 118px;}",
+        ".grid__item.text-center .btn:hover {background: #fff !important; color: #111 !important; border-color: #111 !important;}"
+      ],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "HANDCRAFTED BLOUSES",
@@ -122,6 +130,10 @@
     },
     "featured_collection_Y7qzA8": {
       "type": "featured-collection",
+      "custom_css": [
+        ".grid__item.text-center .btn {background: #fff !important; color: #111 !important; border: 1px solid #dedbd6 !important; border-radius: 0 !important; box-shadow: none !important; font-family: Outfit, Arial, sans-serif !important; font-size: 13px !important; font-weight: 400 !important; letter-spacing: 0.22em !important; line-height: 1 !important; padding: 10px 18px !important; min-width: 118px;}",
+        ".grid__item.text-center .btn:hover {background: #fff !important; color: #111 !important; border-color: #111 !important;}"
+      ],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "ARTISTIC BLOUSES",
@@ -135,6 +147,10 @@
     },
     "featured_collection_RyHXmn": {
       "type": "featured-collection",
+      "custom_css": [
+        ".grid__item.text-center .btn {background: #fff !important; color: #111 !important; border: 1px solid #dedbd6 !important; border-radius: 0 !important; box-shadow: none !important; font-family: Outfit, Arial, sans-serif !important; font-size: 13px !important; font-weight: 400 !important; letter-spacing: 0.22em !important; line-height: 1 !important; padding: 10px 18px !important; min-width: 118px;}",
+        ".grid__item.text-center .btn:hover {background: #fff !important; color: #111 !important; border-color: #111 !important;}"
+      ],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "WAIHI BEACH BAGS",
@@ -162,6 +178,10 @@
     },
     "featured_collection_LEUpm3": {
       "type": "featured-collection",
+      "custom_css": [
+        ".grid__item.text-center .btn {background: #fff !important; color: #111 !important; border: 1px solid #dedbd6 !important; border-radius: 0 !important; box-shadow: none !important; font-family: Outfit, Arial, sans-serif !important; font-size: 13px !important; font-weight: 400 !important; letter-spacing: 0.22em !important; line-height: 1 !important; padding: 10px 18px !important; min-width: 118px;}",
+        ".grid__item.text-center .btn:hover {background: #fff !important; color: #111 !important; border-color: #111 !important;}"
+      ],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "COASTAL SWIMWEAR",
@@ -175,6 +195,10 @@
     },
     "featured_collection_Ke8qff": {
       "type": "featured-collection",
+      "custom_css": [
+        ".grid__item.text-center .btn {background: #fff !important; color: #111 !important; border: 1px solid #dedbd6 !important; border-radius: 0 !important; box-shadow: none !important; font-family: Outfit, Arial, sans-serif !important; font-size: 13px !important; font-weight: 400 !important; letter-spacing: 0.22em !important; line-height: 1 !important; padding: 10px 18px !important; min-width: 118px;}",
+        ".grid__item.text-center .btn:hover {background: #fff !important; color: #111 !important; border-color: #111 !important;}"
+      ],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "BOHO DRESSES",
