@@ -137,7 +137,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "ARTISTIC BLOUSES",
-        "home_featured_products": "colourful-blouses",
+        "home_featured_products": "artistic-blouses",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
