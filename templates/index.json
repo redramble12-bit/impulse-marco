@@ -213,7 +213,7 @@
     "sp_custom_html_HK7xpz": {
       "type": "sp-custom-html",
       "custom_css": [
-        ".text-with-icons__block-title h3{font-size:11.9px!important;font-weight:1000!important}"
+        ".text-with-icons__block-title h3 {font-size: 11.9px !important; font-weight: 1000 !important;}"
       ],
       "name": "🚀SP - Custom HTML",
       "settings": {
