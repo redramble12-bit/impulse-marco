@@ -212,6 +212,9 @@
     },
     "sp_custom_html_HK7xpz": {
       "type": "sp-custom-html",
+      "custom_css": [
+        "h3 {font-size: 11.9px !important; font-weight: 700 !important;}"
+      ],
       "name": "🚀SP - Custom HTML",
       "settings": {
         "title": "",
