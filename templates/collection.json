@@ -9,40 +9,44 @@
  */
 {
   "sections": {
-    "slideshow_TxpjLa": {
+    "slideshow_T7yqJV": {
       "type": "slideshow",
       "blocks": {
-        "image_CA6t4d": {
+        "image_Lzyq4M": {
           "type": "image",
           "settings": {
             "top_subheading": "",
             "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
+            "title_size": 40,
+            "subheading": "SALE ENDS TONIGHT",
+            "link": "shopify://collections",
+            "link_text": "SHOP NOW",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#8ca3b0",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/b340755d-7348-43e3-86c7-af1a35c83637.png",
-            "parallax_direction": "top",
+            "image": "shopify://shop_images/ChatGPT_Image_16_aug_2026_22_31_56.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_16_aug_2026_22_38_49.png",
+            "parallax_direction": "left",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "image_CA6t4d"
+        "image_Lzyq4M"
+      ],
+      "custom_css": [
+        "{font-size: 24px;}"
       ],
       "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
       "settings": {
         "section_height": "natural",
-        "mobile_height": "250px",
+        "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
-        "autoplay": true,
+        "autoplay": false,
         "autoplay_speed": 5,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "sp_custom_html_bNaWqc": {
@@ -190,7 +194,7 @@
     }
   },
   "order": [
-    "slideshow_TxpjLa",
+    "slideshow_T7yqJV",
     "sp_custom_html_bNaWqc",
     "rich_text_aNKLkE",
     "rich_text_TLGJ4y",
