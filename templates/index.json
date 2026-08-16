@@ -71,6 +71,7 @@
     },
     "featured_collection_qebfLB": {
       "type": "featured-collection",
+      "custom_css": [],
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "DENIM COLLECTION",
