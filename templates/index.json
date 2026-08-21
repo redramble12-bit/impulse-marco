@@ -155,7 +155,7 @@
       "name": "t:sections.featured-collection.presets.featured_collection.name",
       "settings": {
         "title": "Wasaga BEACH BAGS",
-        "home_featured_products": "waihi-beach-bags",
+        "home_featured_products": "qualicum-beach-bags",
         "per_row": 4,
         "rows": 2,
         "mobile_scrollable": true,
